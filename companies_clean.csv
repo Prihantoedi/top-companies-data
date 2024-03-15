@@ -1,0 +1,1473 @@
+Company_name,Field,Company_age,Ratings,Highly_rated_for,Critically_rated_for,Total_reviews,Avg_salary,Interviews_taken,Total_jobs_available,Total_benefits
+TCS,IT Services & Consulting ,56,3.8,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",731000,8569000,61000,847,115000
+Cognizant,IT Services & Consulting ,30,3.9,Skill Development / Learning,Promotions / Appraisal,417000,5615000,36000,460,58000
+Wipro,IT Services & Consulting ,79,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",392000,4274000,37000,405,5000
+Capgemini,IT Services & Consulting ,57,3.9,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",34000,4144000,28000,719,4000
+HDFC Bank,Banking ,30,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,339000,1323000,15000,335,32000
+Infosys,IT Services & Consulting ,43,3.8,"Job Security, Company Culture, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",318000,462000,48000,11000,51000
+HCLTech,IT Services & Consulting ,33,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",285000,2934000,25000,408,41000
+Genpact,IT Services & Consulting ,27,3.9,"Job Security, Skill Development / Learning, Work Life Balance","Salary & Benefits, Promotions / Appraisal",262000,1904000,19000,782,37000
+Concentrix Corporation,BPO ,41,3.9,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",218000,1054000,11000,127,33000
+Jio,Telecom ,17,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,206000,673000,12000,168,26000
+IBM,IT Services & Consulting ,113,4.1,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,197000,2215000,15000,4000,27000
+Reliance Retail,Retail ,18,3.9,"Skill Development / Learning, Job Security",Promotions / Appraisal,187000,589000,11000,281,2000
+HDB Financial Services,NBFC ,17,4.0,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,181000,505000,590,85,15000
+Kotak Mahindra Bank,Banking ,21,3.8,Job Security,Promotions / Appraisal,142000,782000,738,222,13000
+Reliance Industries,Oil & Gas ,47,4.1,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,137000,656000,932,40,19000
+WNS,BPO ,28,3.5,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",97000,544000,716,131,14000
+Ernst & Young,Management Consulting ,22,3.6,Job Security,"Work Life Balance, Work Satisfaction, Promotions / Appraisal",89000,124000,760,18000,13000
+Infosys BPM,BPO ,22,3.8,"Job Security, Company Culture, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",83000,582000,674,121,12000
+DXC Technology,IT Services & Consulting ,7,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",83000,822000,566,88,12000
+PwC,Management Consulting ,144,3.6,Job Security,"Work Life Balance, Work Satisfaction, Promotions / Appraisal",69000,827000,790,12000,865
+Hinduja Global Solutions,IT Services & Consulting ,24,4.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",67000,256000,178,52,1000
+Bandhan Bank,Banking ,23,3.8,Job Security,Promotions / Appraisal,59000,198000,374,23,532
+EXL Service,Analytics & KPO ,25,3.8,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",59000,374000,453,223,857
+NTT DATA,IT Services & Consulting ,36,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,58000,523000,426,116,776
+HCL Group,IT Services & Consulting ,48,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",53000,687000,282,1,698
+L&T Infotech,IT Services & Consulting ,28,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",53000,744000,403,124,886
+Quess,BPO ,17,4.0,Work Life Balance,Promotions / Appraisal,52000,234000,278,263,460
+Delhivery,Logistics ,13,4.0,Skill Development / Learning,Promotions / Appraisal,51000,168000,307,384,664
+FIS,FinTech ,56,3.9,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,49000,393000,306,109,785
+Udaan,Internet ,8,4.0,"Salary & Benefits, Skill Development / Learning",Job Security,48000,196000,288,294,787
+ITC,FMCG ,49,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,48000,231000,397,63,721
+JSW Steel,Iron & Steel ,42,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,47000,247000,381,90,626
+KPMG India,Management Consulting ,37,3.6,Job Security,"Work Life Balance, Work Satisfaction, Promotions / Appraisal",44000,629000,505,579,781
+Oracle,Software Product ,47,3.8,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",44000,587000,524,230,640
+Megha Engineering & Infrastructures,Engineering & Construction ,35,4.1,"Job Security, Skill Development / Learning",Promotions / Appraisal,41000,145000,298,20,561
+Vivo,Consumer Electronics & Appliances ,15,4.1,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,41000,137000,144,7,666
+OPPO,Consumer Electronics & Appliances ,20,4.0,Skill Development / Learning,Promotions / Appraisal,4000,133000,171,12,648
+D Mart,Retail ,24,4.0,"Job Security, Company Culture",Promotions / Appraisal,39000,139000,256,92,484
+Cyient,IT Services & Consulting ,33,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",39000,259000,197,151,490
+BigBasket,Internet ,13,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,38000,153000,259,30,442
+ICICI Lombard General Insurance Company,Insurance ,23,3.8,Job Security,Promotions / Appraisal,38000,183000,182,246,378
+GlobalLogic,IT Services & Consulting ,24,3.7,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",36000,319000,323,85,554
+UST,IT Services & Consulting ,23,3.9,"Work Life Balance, Company Culture",Promotions / Appraisal,36000,357000,283,91,455
+Bosch Global Software Technologies,IT Services & Consulting ,27,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,36000,349000,214,8,721
+IQVIA,Clinical Research ,42,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,36000,267000,290,47,553
+Reliance Communications,Telecom ,22,4.0,Skill Development / Learning,Promotions / Appraisal,35000,125000,69,2,376
+State Bank of India,Banking ,218,3.8,Job Security,"Work Life Balance, Company Culture, Work Satisfaction",34000,103000,166,187,407
+Swiggy,Internet ,10,3.9,Salary & Benefits,"Job Security, Promotions / Appraisal",33000,192000,268,364,363
+SBI Life Insurance Company,Insurance ,23,3.9,Job Security,Promotions / Appraisal,33000,109000,158,10,334
+Optum,Healthcare ,47,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,32000,253000,272,21,568
+KEC International,Engineering & Construction ,79,4.1,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,32000,11000,208,10,452
+Muthoot Fincorp,NBFC ,137,4.1,"Job Security, Skill Development / Learning, Work Life Balance","Promotions / Appraisal, Salary & Benefits",31000,8000,98,54,282
+Tata Communications,Telecom ,38,4.2,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,3000,226000,183,298,435
+Varun Beverages,Beverage ,29,4.1,"Job Security, Salary & Benefits",Promotions / Appraisal,3000,96000,153,63,330
+Godrej & Boyce Manufacturing,Engineering & Construction ,127,3.9,Job Security,Promotions / Appraisal,29000,163000,125,45,429
+Persistent Systems,IT Services & Consulting ,34,3.8,Company Culture,Promotions / Appraisal,29000,323000,319,259,408
+Hetero Drugs,Pharma ,31,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",29000,137000,149,19,343
+Abbott Healthcare,Pharma ,33,4.1,"Company Culture, Salary & Benefits, Work Life Balance",Promotions / Appraisal,28000,108000,105,141,382
+VE Commercial Vehicles,Automobile ,16,4.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,28000,123000,147,4,374
+Standard Chartered Bank,Banking ,171,3.8,Job Security,Promotions / Appraisal,27000,259000,122,44,318
+Atos,IT Services & Consulting ,27,3.8,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",26000,275000,187,6,365
+Vishal Mega Mart,Retail ,16,3.8,Salary & Benefits,"Company Culture, Job Security",26000,66000,120,4,275
+Berger Paints,Chemicals ,101,3.8,Job Security,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",25000,82000,195,62,286
+Ipca Laboratories,Pharma ,75,4.0,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",25000,109000,118,33,265
+Jindal Steel and Power,Iron & Steel ,45,4.0,"Skill Development / Learning, Job Security",Promotions / Appraisal,25000,126000,207,21,330
+MRF Tyres,Auto Components ,78,3.8,Job Security,"Company Culture, Work Satisfaction, Work Life Balance",24000,108000,213,20,377
+Wipro Consumer Care & Lighting,FMCG ,79,3.9,Job Security,Promotions / Appraisal,24000,29000,41,30,286
+GeBBS Healthcare Solutions,BPO ,19,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",24000,104000,104,106,304
+Ceat Tyres,Auto Components ,66,4.1,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,24000,114000,115,1,366
+Conduent,BPO ,7,3.6,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",24000,191000,125,67,386
+Synechron,IT Services & Consulting ,23,3.8,"Salary & Benefits, Skill Development / Learning, Company Culture",Job Security,23000,245000,195,72,283
+HARMAN,Consumer Electronics & Appliances ,15,3.8,Work Life Balance,Promotions / Appraisal,23000,228000,157,43,126
+GATI-KWE,Logistics ,12,4.0,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,23000,62000,78,25,291
+Reliance SMSL,BPO ,17,4.0,"Skill Development / Learning, Salary & Benefits, Work Life Balance",Promotions / Appraisal,23000,56000,127,1,284
+Torrent Pharmaceuticals,Pharma ,53,4.0,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",22000,101000,79,26,336
+Tata AIG,Insurance ,24,4.2,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,22000,102000,105,96,249
+Alstom Transportation,Engineering & Construction ,96,3.9,Job Security,Promotions / Appraisal,22000,111000,166,125,190
+Apollo Tyres,Auto Components ,52,4.1,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,21000,89000,95,14,341
+Suzlon Group,Power ,29,4.2,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,21000,79000,82,14,362
+Zensar Technologies,IT Services & Consulting ,23,3.8,Work Life Balance,Promotions / Appraisal,21000,261000,149,75,275
+Flex,Electronics Manufacturing ,55,4.1,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,21000,184000,114,14,456
+Capita,IT Services & Consulting ,19,3.8,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",21000,144000,107,33,340
+Huawei Technologies,Telecom ,22,4.0,"Salary & Benefits, Skill Development / Learning",Job Security,21000,116000,79,9,303
+State Street Corporation,Financial Services ,232,3.8,Job Security,Promotions / Appraisal,21000,22000,122,153,281
+Tata Technologies,Engineering & Construction ,35,3.8,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",21000,195000,147,227,328
+HDFC Sales,Financial Services ,20,4.1,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,2000,76000,124,30,198
+Croma,Retail ,18,4.1,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,2000,67000,70,119,194
+Landmark Group,Retail ,51,4.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,2000,88000,89,122,279
+Walmart,Retail ,15,4.0,"Job Security, Company Culture, Salary & Benefits",Promotions / Appraisal,2000,163000,201,185,361
+Tractors and Farm Equipment,Industrial Machinery ,64,4.1,"Skill Development / Learning, Work Life Balance, Company Culture",Promotions / Appraisal,2000,84000,71,37,291
+G4S,Law Enforcement & Security ,28,4.1,"Work Life Balance, Salary & Benefits",Promotions / Appraisal,2000,48000,66,30,239
+BlackBuck,Internet ,9,3.9,Salary & Benefits,"Job Security, Promotions / Appraisal",2000,61000,131,66,247
+Societe Generale,Financial Services ,24,3.9,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,2000,196000,152,101,307
+TVS Supply Chain Solutions,Logistics ,128,4.0,Job Security,"Promotions / Appraisal, Salary & Benefits",19000,81000,86,13,202
+KFintech,FinTech ,7,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",19000,96000,89,19,54
+Micro Labs,Pharma ,51,3.7,Job Security,"Salary & Benefits, Promotions / Appraisal, Company Culture",19000,89000,77,4,217
+Shree Cement,Building Material ,45,4.0,Work Life Balance,Promotions / Appraisal,19000,87000,106,1,232
+Kyndryl,IT Services & Consulting ,3,4.1,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,19000,162000,91,53,178
+Eureka Forbes,Consumer Electronics & Appliances ,42,3.9,Skill Development / Learning,"Promotions / Appraisal, Job Security",18000,58000,43,7,230
+DS Group,FMCG ,95,4.1,"Work Life Balance, Job Security",Promotions / Appraisal,18000,59000,77,67,223
+Sonalika Tractors,Automobile ,55,3.8,Job Security,"Promotions / Appraisal, Company Culture, Work Life Balance",18000,8000,93,13,185
+Motilal Oswal Financial Services,Financial Services ,37,3.8,Skill Development / Learning,Promotions / Appraisal,18000,92000,116,130,183
+Mahindra Logistics,Logistics ,24,4.1,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,18000,78000,85,23,223
+Rivigo,Internet ,10,3.9,Skill Development / Learning,"Promotions / Appraisal, Job Security, Salary & Benefits",18000,75000,65,5,242
+Indus Towers,Telecom ,17,4.0,"Salary & Benefits, Skill Development / Learning, Company Culture",Promotions / Appraisal,18000,7000,113,40,210
+Myntra,Internet ,17,4.0,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,17000,89000,118,58,316
+Pfizer,Pharma ,20,4.1,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,17000,61000,46,67,283
+Kansai Nerolac Paints,Chemicals ,104,3.9,Job Security,Promotions / Appraisal,17000,64000,93,77,197
+Fujitsu,IT Services & Consulting ,89,3.9,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,17000,148000,107,76,201
+Raymond,Fashion & Textile ,99,4.1,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,17000,71000,66,31,242
+MSN Laboratories,Pharma ,21,3.8,Job Security,Company Culture,17000,71000,70,52,182
+ICICI Securities,Financial Services ,29,3.8,Job Security,"Promotions / Appraisal, Work Satisfaction",17000,86000,101,17,187
+Blinkit,Internet ,11,3.9,Skill Development / Learning,"Job Security, Promotions / Appraisal",16000,8000,104,8,204
+ZS,Management Consulting ,41,3.5,Salary & Benefits,"Work Life Balance, Work Satisfaction",16000,156000,225,47,285
+Foundever,BPO ,39,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",16000,6000,77,78,224
+Syngene International,Pharma ,31,3.9,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,16000,107000,110,48,241
+Brakes India,Auto Components ,62,4.1,"Job Security, Skill Development / Learning, Work Satisfaction",Promotions / Appraisal,16000,64000,49,4,208
+Bureau Veritas,Other ,196,4.0,"Work Life Balance, Job Security",Promotions / Appraisal,16000,72000,64,30,182
+Citicorp,Financial Services ,27,3.8,"Job Security, Salary & Benefits","Promotions / Appraisal, Work Satisfaction",16000,193000,161,46,277
+CAMS,IT Services & Consulting ,36,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",16000,7000,70,32,59
+Gallagher,Insurance ,97,3.9,"Company Culture, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",15000,101000,107,57,128
+Sopra Steria,IT Services & Consulting ,56,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,15000,137000,78,38,258
+Tata Motors Finance,NBFC ,67,4.1,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,15000,45000,55,100,155
+café Coffee day,Hospitality ,28,4.0,"Skill Development / Learning, Work Life Balance","Promotions / Appraisal, Salary & Benefits",15000,44000,33,3,178
+Power Mech Projects,Engineering & Construction ,17,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",15000,61000,77,6,167
+RMSI,IT Services & Consulting ,32,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",15000,72000,63,20,186
+DBS Bank,Banking ,9,3.9,"Salary & Benefits, Job Security",Promotions / Appraisal,15000,116000,89,64,194
+Lucas-TVS,Auto Components ,63,4.0,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,15000,56000,55,4,224
+Bank of Baroda,Banking ,116,3.6,Job Security,"Promotions / Appraisal, Work Satisfaction, Company Culture",15000,61000,72,8,155
+Sify Technologies,IT Services & Consulting ,29,4.0,"Skill Development / Learning, Job Security",Promotions / Appraisal,15000,92000,86,60,158
+Parle Products,Food Processing ,95,4.0,Salary & Benefits,Company Culture,14000,39000,61,6,207
+Uflex,Packaging ,39,3.8,Job Security,"Promotions / Appraisal, Company Culture, Work Satisfaction",14000,64000,75,16,123
+CMA CGM,Ports & Shipping ,46,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,14000,88000,68,1,229
+Renault Nissan Technology & Business Centre India,IT Services & Consulting ,17,3.9,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",14000,132000,67,11,236
+Novartis,Pharma ,28,4.1,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,14000,83000,88,151,241
+TCE,Engineering & Construction ,62,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",14000,72000,171,27,169
+L&T Energy Hydrocarbon,Engineering & Construction ,15,3.9,"Job Security, Skill Development / Learning","Promotions / Appraisal, Work Life Balance, Salary & Benefits",14000,71000,62,3,205
+AXA Business Services,Insurance ,78,3.8,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",14000,77000,49,16,171
+Meesho,Internet ,9,3.7,Salary & Benefits,"Job Security, Promotions / Appraisal",14000,64000,169,231,289
+Wockhardt,Pharma ,25,3.9,"Work Life Balance, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",14000,47000,38,9,183
+Honeywell Automation,Consumer Electronics & Appliances ,118,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",14000,105000,58,297,165
+SBI General Insurance,Insurance ,15,3.9,Job Security,Promotions / Appraisal,14000,53000,71,23,139
+YASH Technologies,IT Services & Consulting ,28,3.8,"Work Life Balance, Company Culture",Promotions / Appraisal,14000,155000,88,78,180
+Philips,Consumer Electronics & Appliances ,94,3.9,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,14000,102000,88,131,189
+Vardhman Fabrics,Fashion & Textile ,59,4.1,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",14000,56000,46,23,151
+NCR Corporation,IT Services & Consulting ,140,4.1,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,13000,85000,64,104,185
+Apollo Pharmacy,Pharma ,41,3.9,"Job Security, Skill Development / Learning",Promotions / Appraisal,13000,45000,79,121,127
+Crisil,Financial Services ,37,3.8,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",13000,109000,119,404,236
+Exl India,IT Services & Consulting ,67,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",13000,103000,50,16,170
+Panasonic Life Solutions,Electrical Equipment ,61,4.1,"Job Security, Work Life Balance, Salary & Benefits",Promotions / Appraisal,13000,5000,46,10,106
+SS&C TECHNOLOGIES,IT Services & Consulting ,38,3.6,Job Security,"Promotions / Appraisal, Work Life Balance, Work Satisfaction",13000,114000,105,86,205
+R.R. Donnelley,Marketing & Advertising ,160,4.1,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",13000,107000,71,17,285
+Reckitt Benckiser,FMCG ,25,4.0,"Salary & Benefits, Work Life Balance, Company Culture",Promotions / Appraisal,13000,58000,57,41,180
+Motherson Automotive Technologies and Engineering,Auto Components ,27,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,13000,62000,80,8,165
+USV,Pharma ,63,4.1,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,13000,5000,56,21,182
+HERE Technologies,IT Services & Consulting ,39,3.8,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",13000,78000,50,37,297
+Mercedes-Benz Research & Development India,IT Services & Consulting ,28,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,13000,147000,129,3,227
+Isgec Heavy Engineering,Industrial Machinery ,91,3.9,Job Security,Promotions / Appraisal,13000,62000,77,17,144
+Honeywell Technology Solutions,Defence & Aerospace ,30,3.9,"Job Security, Company Culture",Promotions / Appraisal,13000,126000,90,3,214
+Torrent Power,Power ,28,3.8,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",13000,63000,87,14,165
+Sigma Electric Manufacturing Corporation,Industrial Machinery ,42,4.0,"Company Culture, Skill Development / Learning",Promotions / Appraisal,13000,41000,49,7,220
+DIVI'S Laboratories,Healthcare ,34,3.9,Job Security,"Work Satisfaction, Promotions / Appraisal, Company Culture",12000,58000,56,1,179
+Credit Suisse,Financial Services ,168,4.2,"Work Life Balance, Company Culture, Salary & Benefits",Job Security,12000,159000,125,49,177
+Arvind Group,Fashion & Textile ,93,4.1,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,12000,6000,41,37,298
+Saint-Gobain,Building Material ,359,4.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,12000,83000,121,45,258
+CG Power and Industrial Solutions,Electrical Equipment ,87,3.9,Job Security,Promotions / Appraisal,12000,62000,50,41,224
+FactSet,Financial Services ,46,4.0,"Company Culture, Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",12000,92000,123,40,208
+First American Corporation,IT Services & Consulting ,135,3.9,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",12000,8000,57,33,160
+BNP Paribas,Financial Services ,176,3.9,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,12000,124000,96,16,188
+Aon,Financial Services ,84,4.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",12000,56000,39,19,205
+Emami,Beauty & Personal Care ,50,4.0,"Job Security, Work Life Balance",Promotions / Appraisal,12000,49000,57,13,132
+Bata,Fashion & Textile ,93,3.9,Skill Development / Learning,Promotions / Appraisal,12000,38000,46,1,119
+Tesco,Retail ,105,3.9,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",11000,82000,62,46,194
+Faurecia,Auto Components ,27,4.0,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,11000,64000,47,26,202
+Mercer,Management Consulting ,79,3.8,Job Security,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",11000,94000,53,35,245
+Trident Group,Fashion & Textile ,34,3.5,Salary & Benefits,"Job Security, Company Culture, Work Life Balance",11000,49000,62,6,133
+TATA Power,Power ,113,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,11000,66000,107,44,150
+Tata Advanced Systems,Defence & Aerospace ,17,3.9,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",11000,79000,71,9,142
+Suguna Foods,Food Processing ,40,4.1,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,11000,36000,61,13,141
+Inox Leisure,Media & Entertainment ,25,4.1,"Company Culture, Skill Development / Learning, Job Security",Promotions / Appraisal,11000,42000,43,12,153
+Akzo Nobel India,Chemicals ,85,4.1,"Company Culture, Salary & Benefits, Job Security",Promotions / Appraisal,11000,39000,42,13,140
+Fabindia,Fashion & Textile ,66,3.9,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,11000,43000,36,5,124
+TTEC India,BPO ,40,3.8,Company Culture,"Promotions / Appraisal, Salary & Benefits",11000,4000,87,25,158
+ICICI Home Finance,NBFC ,25,3.7,Salary & Benefits,"Work Life Balance, Work Satisfaction",11000,4000,51,1,89
+Biocon Limited,Biotechnology ,46,3.9,Job Security,Promotions / Appraisal,11000,108000,106,43,13
+Asahi India Glass,Auto Components ,40,3.9,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",11000,45000,47,42,139
+TCS iON,IT Services & Consulting ,13,3.9,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,11000,45000,210,1,185
+Ocwen Financial Solutions,Financial Services ,36,4.1,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,1000,56000,35,10,170
+Godrej Group,Chemicals ,127,4.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,1000,28000,90,13,162
+GMR Group,Engineering & Construction ,46,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,1000,44000,52,40,189
+EPAM Systems,IT Services & Consulting ,31,3.8,"Skill Development / Learning, Salary & Benefits, Work Life Balance",Job Security,1000,119000,177,44,146
+Broadridge Financial Solutions,FinTech ,17,3.9,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,1000,93000,79,52,143
+Edelweiss,Financial Services ,7,3.8,Work Life Balance,Promotions / Appraisal,1000,81000,50,22,132
+Sharekhan,Financial Services ,24,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,1000,49000,45,46,119
+Evalueserve,IT Services & Consulting ,24,3.5,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",1000,96000,66,126,144
+Pine Labs,FinTech ,26,3.8,Salary & Benefits,"Promotions / Appraisal, Job Security",1000,53000,52,71,119
+Newgen Software Technologies,IT Services & Consulting ,32,3.6,Job Security,"Work Satisfaction, Skill Development / Learning, Promotions / Appraisal",988,101000,117,93,166
+Fino Payments Bank,Banking ,18,4.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,975,37000,35,27,97
+Physicswallah,EdTech ,5,3.9,"Skill Development / Learning, Company Culture",Promotions / Appraisal,972,27000,96,87,22
+FDC,Pharma ,84,4.0,Work Life Balance,Promotions / Appraisal,970,33000,37,4,91
+ECIL,Electronics Manufacturing ,57,4.1,"Work Life Balance, Work Satisfaction, Company Culture",Promotions / Appraisal,963,36000,31,2,110
+BVG India,Facility Management Services ,27,4.1,Work Life Balance,Promotions / Appraisal,958,35000,33,5,100
+Aditya Birla Health Insurance Co,Insurance ,9,3.9,"Job Security, Skill Development / Learning",Promotions / Appraisal,958,52000,48,4,91
+SKF,Auto Components ,101,4.0,"Work Life Balance, Company Culture, Skill Development / Learning","Promotions / Appraisal, Job Security",952,42000,47,17,158
+Fidelity National Financial,Financial Services ,177,3.8,Job Security,"Promotions / Appraisal, Work Satisfaction",943,58000,40,3,161
+ManpowerGroup,Recruitment ,29,4.0,Work Life Balance,"Promotions / Appraisal, Job Security",934,48000,35,161,81
+SAI Life Sciences,Pharma ,25,3.8,"Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,929,49000,63,14,134
+Shriram Pistons & Rings,Auto Components ,61,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,924,44000,48,6,142
+Atul,Chemicals ,77,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,923,47000,55,4,121
+Fresenius Kabi,Pharma ,112,4.2,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,919,44000,29,3,125
+Tata AutoComp Systems,Auto Components ,26,3.9,"Job Security, Skill Development / Learning",Promotions / Appraisal,903,49000,53,25,106
+Wistron,Electronics Manufacturing ,23,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",903,49000,65,22,150
+TELUS International Philippines,IT Services & Consulting ,19,3.8,Work Life Balance,Promotions / Appraisal,901,62000,55,95,44
+Wind World,Power ,30,4.0,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",895,32000,54,2,122
+Eaton Corporation,Power ,113,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,894,68000,79,92,133
+Godrej Consumer Products,FMCG ,23,4.3,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,885,42000,34,8,125
+Godrej Properties,Real Estate ,34,3.7,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance",883,56000,52,71,112
+PNB Housing Finance,Financial Services ,36,3.9,Job Security,Promotions / Appraisal,882,42000,34,3,90
+Jaquar,Building Material ,64,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,877,41000,37,1,123
+Spencer's Retail,Retail ,161,3.9,"Job Security, Company Culture",Promotions / Appraisal,873,29000,32,10,99
+Slk Software Services,IT Services & Consulting ,24,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",871,85000,54,106,99
+Worley,Engineering & Construction ,53,4.1,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,870,56000,73,62,127
+Siemens Gamesa Renewable Energy,Power ,48,4.1,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,860,48000,35,37,106
+Morningstar,Financial Services ,40,3.9,"Company Culture, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",860,7000,157,146,125
+Hinduja Leyland Finance,NBFC ,18,4.1,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,858,23000,17,1,73
+Sonata Software,IT Services & Consulting ,38,3.7,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",854,107000,69,92,89
+Strides Pharma,Pharma ,34,3.9,Skill Development / Learning,"Job Security, Promotions / Appraisal",843,39000,46,4,145
+Episource,IT Services & Consulting ,18,3.8,"Job Security, Company Culture",Promotions / Appraisal,842,37000,169,3,84
+Decathlon,Retail ,48,4.0,"Skill Development / Learning, Company Culture, Job Security","Work Life Balance, Promotions / Appraisal",841,34000,53,10,115
+OpenText Technologies,Software Product ,33,3.9,"Work Life Balance, Company Culture",Promotions / Appraisal,838,86000,85,143,106
+Kirloskar Oil Engines,Industrial Machinery ,78,4.2,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,834,36000,33,1,104
+PNC Infratech,Engineering & Construction ,25,4.0,Job Security,Promotions / Appraisal,833,32000,43,3,81
+Bajaj Housing Finance,NBFC ,16,3.9,Skill Development / Learning,"Work Life Balance, Company Culture, Work Satisfaction",831,46000,39,19,62
+Parexel International,Healthcare ,42,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,825,53000,53,3,127
+iMerit,Software Product ,12,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",825,38000,67,16,104
+BGR Energy Systems,Engineering & Construction ,39,3.9,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",818,39000,34,1,124
+Ion Exchange India,Waste Management ,60,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",815,41000,41,19,91
+Novo Nordisk,Pharma ,101,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,809,5000,60,144,134
+OM Logistics,Logistics ,25,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,794,3000,40,8,101
+Hyundai Mobis,Auto Components ,7,3.9,Job Security,Promotions / Appraisal,789,45000,45,4,143
+TechnipFMC,Industrial Machinery ,7,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,787,52000,50,1,111
+GAO Tek,Electrical Equipment ,19,4.5,"Skill Development / Learning, Work Life Balance, Company Culture",Salary & Benefits,783,132,39,22,41
+GEP Worldwide,IT Services & Consulting ,25,3.8,"Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits",774,7000,71,85,133
+TK Elevator,Industrial Machinery ,29,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,771,35000,33,1,101
+Kirloskar Brothers,Industrial Machinery ,136,4.1,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,766,39000,43,4,102
+Colgate Palmolive,FMCG ,87,4.2,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,766,37000,48,30,120
+Tube Investments of India,Engineering & Construction ,75,4.1,"Skill Development / Learning, Job Security, Work Satisfaction",Promotions / Appraisal,764,28000,30,17,60
+Imperial Auto Industries,Auto Components ,55,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",763,41000,38,7,69
+Acuity Knowledge Partners,Financial Services ,22,3.5,Job Security,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",763,74000,72,173,86
+Secure Meters,Electronics Manufacturing ,37,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,760,4000,42,31,108
+Diageo,Beverage ,27,4.1,"Work Life Balance, Salary & Benefits, Company Culture",Promotions / Appraisal,757,55000,44,28,108
+Ahluwalia Contracts India,Engineering & Construction ,59,4.1,Job Security,Promotions / Appraisal,757,28000,29,18,73
+Dassault Systemes,Software Product ,43,4.1,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",754,58000,80,5,148
+Pricol,Auto Components ,49,4.0,"Skill Development / Learning, Work Satisfaction, Company Culture",Promotions / Appraisal,754,4000,29,2,94
+FLSmidth,Industrial Machinery ,142,3.7,Work Life Balance,"Job Security, Promotions / Appraisal, Salary & Benefits",751,45000,25,26,113
+SLK Global Services,BPO ,24,3.9,Job Security,"Salary & Benefits, Promotions / Appraisal",749,36000,19,5,102
+PayPal,FinTech ,26,3.9,"Salary & Benefits, Company Culture, Work Life Balance",Promotions / Appraisal,744,71000,124,26,125
+eClinicalWorks,Software Product ,25,3.9,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal,740,48000,33,12,169
+eClinicalWorks,Software Product ,25,3.9,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal,740,48000,33,12,169
+LOREAL,Beauty & Personal Care ,33,4.1,"Company Culture, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,737,35000,48,45,106
+Nirma,FMCG ,34,4.2,"Job Security, Work Life Balance, Work Satisfaction",Promotions / Appraisal,736,31000,29,1,124
+Hikal,Pharma ,36,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,727,39000,46,24,88
+CADD Centre Training Services,Education & Training ,36,4.1,"Skill Development / Learning, Company Culture, Work Satisfaction",Promotions / Appraisal,717,26000,22,17,94
+C&S Electric,Electrical Equipment ,58,4.0,Job Security,"Promotions / Appraisal, Salary & Benefits",717,35000,30,10,95
+Better.com,Financial Services ,8,3.0,Salary & Benefits,"Job Security, Skill Development / Learning, Promotions / Appraisal",715,42000,40,92,123
+Pernod Ricard,Beverage ,49,3.9,Salary & Benefits,Promotions / Appraisal,712,38000,29,17,117
+Patra Corporation,BPO ,19,3.8,"Job Security, Company Culture","Salary & Benefits, Promotions / Appraisal",710,33000,48,3,81
+TNQ Technologies,Printing & Publishing ,26,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",708,35000,39,10,80
+Metropolis Healthcare,Healthcare ,44,4.1,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,708,3000,36,12,71
+Otis Elevator,Industrial Machinery ,171,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,702,34000,33,72,89
+C.R.I. Pumps,Industrial Machinery ,63,3.9,Skill Development / Learning,Promotions / Appraisal,698,29000,16,11,79
+Yashoda Hospitals,Healthcare ,35,3.9,Skill Development / Learning,Promotions / Appraisal,695,31000,29,37,86
+Suzuki Motorcycle,Automobile ,27,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,689,36000,24,1,95
+Suzuki Motorcycle,Automobile ,27,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,689,36000,24,1,95
+Willis Towers Watson,Financial Services ,8,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,689,62000,57,30,101
+Vertiv,IT Services & Consulting ,8,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,689,29000,31,64,10
+Huhtamaki,Packaging ,89,3.9,Skill Development / Learning,Promotions / Appraisal,687,27000,16,22,89
+Meril,Medical Equipment ,18,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",686,35000,34,39,75
+Centum Electronics,Electronics Manufacturing ,30,3.9,"Job Security, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",684,38000,13,15,110
+Gharda Chemicals,Chemicals ,57,4.2,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,683,36000,32,3,108
+Aarvi Encon,Recruitment ,37,4.1,"Company Culture, Work Satisfaction","Promotions / Appraisal, Job Security",682,26000,40,9,67
+DLF,Real Estate ,78,4.0,Salary & Benefits,Promotions / Appraisal,678,35000,55,13,72
+Grant Thornton,Accounting & Auditing ,100,3.7,Job Security,Promotions / Appraisal,677,8000,60,103,85
+Bechtel,Engineering & Construction ,126,4.1,"Salary & Benefits, Company Culture, Work Life Balance",Job Security,674,28000,41,2,91
+Greaves Cotton,Auto Components ,165,4.1,"Work Life Balance, Company Culture",Promotions / Appraisal,674,28000,15,4,96
+Panacea Biotec,Biotechnology ,40,3.9,Work Life Balance,Promotions / Appraisal,670,26000,44,27,99
+Timken,Industrial Machinery ,26,3.9,Job Security,Promotions / Appraisal,666,36000,32,1,108
+Kohler,Building Material ,151,3.9,Salary & Benefits,"Promotions / Appraisal, Job Security",664,39000,26,56,82
+Greenko Group,Power ,20,3.9,Job Security,Promotions / Appraisal,660,31000,30,2,98
+Samsung Research,Consumer Electronics & Appliances ,55,3.4,Job Security,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",656,65000,57,4,163
+T-SYSTEMS ICT INDIA,IT Services & Consulting ,8,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,654,62000,50,41,96
+NielsenIQ,IT Services & Consulting ,101,3.9,"Company Culture, Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",652,4000,78,20,63
+Acme Cleantech Solutions,Industrial Machinery ,21,3.9,Salary & Benefits,"Job Security, Promotions / Appraisal",651,25000,38,15,96
+Kalpataru Group,Real Estate ,55,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",651,36000,25,26,83
+Financial Software & Systems,FinTech ,33,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",650,53000,37,129,63
+Snapdeal,Internet ,14,3.9,"Company Culture, Work Life Balance, Work Satisfaction","Job Security, Promotions / Appraisal",646,31000,68,33,117
+Piramal Pharma,Pharma ,36,4.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,644,36000,58,149,103
+City Union Bank,Banking ,120,3.4,Job Security,"Work Life Balance, Company Culture, Work Satisfaction",635,4000,45,3,60
+Royal Sundaram General Insurance,Insurance ,23,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,633,25000,18,1,64
+NBC Bearings,Auto Components ,78,3.9,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,628,27000,57,3,50
+Collins Aerospace,Defence & Aerospace ,91,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,624,6000,40,29,110
+OLX,Internet ,18,3.8,Salary & Benefits,"Job Security, Promotions / Appraisal",623,38000,49,77,116
+Medusind Solutions,IT Services & Consulting ,22,3.9,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,623,28000,21,15,102
+Genpact Headstrong Capital Markets,IT Services & Consulting ,26,3.8,"Job Security, Work Life Balance",Promotions / Appraisal,619,61000,68,3,109
+Jabil Circuit India,Electronics Manufacturing ,58,4.0,"Skill Development / Learning, Company Culture",Promotions / Appraisal,618,3000,32,9,77
+Aparajitha Corporate Services,Legal ,24,3.9,"Skill Development / Learning, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",612,25000,18,5,59
+Adani Enterprises,Financial Services ,36,3.9,Job Security,Promotions / Appraisal,611,36000,49,27,83
+BNP Paribas India Solutions,IT Services & Consulting ,176,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,607,69000,39,1,116
+RAMTeCH Software Solutions,IT Services & Consulting ,32,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",601,28000,23,4,59
+Kutumbh Care,Recruitment ,17,3.9,"Skill Development / Learning, Work Satisfaction",Promotions / Appraisal,598,17000,28,1,56
+First Advantage,Recruitment ,21,3.9,"Company Culture, Work Life Balance",Promotions / Appraisal,595,64000,15,4,60
+Deepak Fertilisers and Petrochemicals,Agro Chemicals ,45,3.9,Job Security,Promotions / Appraisal,590,3000,23,13,83
+Ugam Solution,IT Services & Consulting ,24,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",582,43000,41,9,102
+L&T Power,Power ,18,3.9,"Job Security, Skill Development / Learning",Promotions / Appraisal,581,37000,23,1,107
+Times Internet,Internet ,25,3.6,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",578,55000,39,149,72
+The Lalit,Hospitality ,43,3.8,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits",575,19000,13,4,83
+Re Sustainability Limited,Waste Management ,30,4.0,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",573,25000,30,11,79
+Amazon Web Services,Software Product ,18,4.0,"Salary & Benefits, Skill Development / Learning, Company Culture",Job Security,571,48000,110,6,81
+HP India,Consumer Electronics & Appliances ,27,4.3,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,570,27000,72,9,59
+Citigroup,Banking ,212,3.8,"Salary & Benefits, Job Security","Work Satisfaction, Promotions / Appraisal",567,83000,60,20,57
+Chennai Radha Engineering Works,Engineering & Construction ,19,4.0,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",567,23000,13,14,94
+India Cements,Building Material ,78,3.7,Job Security,Promotions / Appraisal,562,24000,33,5,62
+Redington,Hardware & Networking ,25,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,554,31000,19,5,67
+VA Tech Wabag,Waste Management ,100,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,549,28000,30,25,89
+Fleetguard Filters,Auto Components ,37,4.2,"Company Culture, Job Security, Salary & Benefits",Promotions / Appraisal,548,21000,31,2,60
+Xceedance,Insurance ,11,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",547,44000,58,58,79
+CMS Computers Limited (INDIA),IT Services & Consulting ,48,3.9,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",546,3000,26,19,50
+Magna International,Auto Components ,67,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,546,38000,24,7,71
+Ivrcl Infrastructures & Projects,Engineering & Construction ,37,4.2,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,544,11000,4,9,79
+IVY Comptech,IT Services & Consulting ,23,4.1,"Job Security, Work Life Balance, Salary & Benefits",Promotions / Appraisal,538,52000,60,8,97
+JK Paper,Pulp & Paper ,62,4.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,535,24000,37,4,75
+Thriveni Earthmovers,Metals & Mining ,33,4.0,"Skill Development / Learning, Job Security, Salary & Benefits",Promotions / Appraisal,534,24000,34,2,88
+FIITJEE,Education & Training ,32,3.8,"Job Security, Work Life Balance, Work Satisfaction",Promotions / Appraisal,534,22000,28,59,58
+Jain Irrigation Systems,Agriculture ,61,4.0,"Job Security, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",533,23000,15,1,52
+Rentokil Pest Control,Facility Management Services ,70,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",529,19000,18,83,73
+Orient Electric,Consumer Electronics & Appliances ,70,4.0,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,527,25000,28,89,52
+United Spirits,Beverage ,27,4.0,"Company Culture, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,524,2000,10,6,72
+Deepak Nitrite,Chemicals ,54,3.9,"Job Security, Work Life Balance",Promotions / Appraisal,523,28000,32,1,72
+Parag Milk Foods,FMCG ,32,4.0,"Skill Development / Learning, Company Culture",Promotions / Appraisal,523,23000,30,11,56
+EPL Limited,Packaging ,40,4.0,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",521,18000,15,1,73
+Atkins,Engineering & Construction ,86,3.9,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,521,62000,46,1,82
+EPL Limited,Packaging ,40,4.0,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",521,18000,15,1,73
+Hapag-Lloyd,Ports & Shipping ,177,3.9,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal,519,26000,18,9,74
+Zetwerk Manufacturing Businesses,Industrial Machinery ,6,4.0,"Salary & Benefits, Company Culture","Promotions / Appraisal, Job Security",519,24000,46,62,58
+Micro Turners,Auto Components ,55,3.9,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal, Company Culture",518,24000,22,1,49
+MPS Limited,Content Development ,54,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,518,28000,10,36,48
+Care Hospital,Healthcare ,27,4.1,"Skill Development / Learning, Work Satisfaction, Job Security",Promotions / Appraisal,517,18000,17,7,69
+Diebold Nixdorf,IT Services & Consulting ,32,3.9,Work Life Balance,Promotions / Appraisal,516,35000,27,25,87
+Thermo Fisher Scientific,Pharma ,68,3.9,Job Security,Promotions / Appraisal,516,42000,31,3,62
+GKN,Industrial Machinery ,39,4.1,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,512,24000,19,53,84
+Encora,IT Services & Consulting ,19,3.9,"Work Life Balance, Company Culture",Promotions / Appraisal,511,45000,39,88,49
+Lionbridge Technologies,Content Development ,28,3.7,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",510,37000,26,8,64
+Alshaya Group,Retail ,134,3.9,Job Security,Promotions / Appraisal,510,23000,32,7,86
+Wuerth,Industrial Machinery ,30,4.0,"Work Life Balance, Company Culture",Promotions / Appraisal,510,21000,30,7,75
+Guidehouse,Management Consulting ,21,3.9,Salary & Benefits,Promotions / Appraisal,506,31000,37,30,49
+Tavant Technologies,IT Services & Consulting ,24,4.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,505,56000,43,33,89
+IBS Software Services,Software Product ,27,4.0,"Job Security, Company Culture, Skill Development / Learning",Salary & Benefits,504,55000,63,10,78
+NRB Bearings,Auto Components ,59,4.1,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,501,21000,26,1,68
+CIEL HR,Recruitment ,9,4.1,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,500,22000,34,548,59
+Rackspace,IT Services & Consulting ,26,3.9,"Work Life Balance, Company Culture, Salary & Benefits","Promotions / Appraisal, Job Security",499,35000,51,34,59
+Tata Power Delhi Distribution,Power ,22,3.9,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",498,26000,22,3,63
+Siemens Energy,Power ,177,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,496,34000,47,45,70
+Freshworks,Software Product ,14,3.7,Salary & Benefits,Promotions / Appraisal,494,48000,81,108,57
+ShareChat,Internet ,9,3.6,Salary & Benefits,"Job Security, Promotions / Appraisal",494,22000,44,13,47
+Hitachi Energy,Power ,5,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,490,38000,45,210,67
+ChannelPlay,Marketing & Advertising ,18,4.0,"Company Culture, Work Life Balance","Promotions / Appraisal, Job Security",485,17000,15,214,93
+MothersonSumi INfotech & Designs,IT Services & Consulting ,24,3.4,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",481,39000,22,36,60
+TTK Prestige,Consumer Electronics & Appliances ,69,4.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,479,2000,28,9,49
+Adidas,Fashion & Textile ,75,3.9,"Salary & Benefits, Work Life Balance, Company Culture",Promotions / Appraisal,478,28000,49,238,60
+Hitachi Digital Services,IT Services & Consulting ,1,3.9,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,478,45000,37,32,60
+Baroda Global Shared Services,Banking ,7,3.9,Work Life Balance,Promotions / Appraisal,478,21000,28,47,29
+Bunge India,Food Processing ,24,4.0,"Job Security, Salary & Benefits, Work Life Balance",Promotions / Appraisal,477,25000,24,5,64
+Genesys International Corporation,IT Services & Consulting ,29,3.9,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits",476,28000,15,14,52
+HBL Power Systems,Electrical Equipment ,47,4.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",475,2000,26,9,59
+3M,Electronics Manufacturing ,37,4.2,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,475,28000,15,40,63
+Y-Axis Overseas Careers,Other ,25,3.5,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits, Company Culture",472,13000,14,7,295
+Visteon,Auto Components ,24,3.9,Skill Development / Learning,Work Life Balance,472,41000,28,159,49
+Bharat Serums and Vaccines,Pharma ,53,3.9,Skill Development / Learning,Promotions / Appraisal,471,2000,18,10,65
+Hilti,Industrial Machinery ,83,3.8,Company Culture,Promotions / Appraisal,471,27000,37,58,87
+Clarivate,Analytics & KPO ,8,3.9,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,471,44000,47,29,53
+Forbes Marshall,Industrial Machinery ,99,4.1,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,468,25000,25,27,55
+Avalon Technologies,Electronics Manufacturing ,22,3.9,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Company Culture",465,29000,19,18,47
+Keventer,FMCG ,38,4.0,Work Life Balance,Promotions / Appraisal,462,2000,16,5,63
+Yokogawa,Auto Components ,109,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",457,35000,25,30,83
+Medtronic,Medical Equipment ,45,4.0,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,457,36000,45,256,69
+JK Tech,IT Services & Consulting ,30,3.9,Work Life Balance,Promotions / Appraisal,456,38000,20,61,32
+Carborundum Universal,Metals & Mining ,70,4.0,"Job Security, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",451,22000,16,5,62
+Casagrand,Real Estate ,20,4.0,"Job Security, Company Culture, Salary & Benefits",Promotions / Appraisal,451,24000,31,9,37
+CDK Global,Software Product ,52,3.6,Work Life Balance,"Job Security, Promotions / Appraisal",449,36000,25,4,74
+Nomura Holdings,Investment Banking / Venture Capital / Private Equity ,15,3.9,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,449,58000,44,140,96
+Schindler Group,Industrial Machinery ,27,3.8,Skill Development / Learning,"Promotions / Appraisal, Job Security",446,22000,18,5,81
+Rockwell Automation,Industrial Automation ,121,4.1,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,445,4000,51,28,78
+BSH Home Appliances Group,Consumer Electronics & Appliances ,57,4.1,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,444,16000,15,2,11
+Khazana Jewellery,Jewellery ,35,3.9,Skill Development / Learning,Promotions / Appraisal,443,14000,27,14,60
+Suma Soft,IT Services & Consulting ,24,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",443,27000,28,20,43
+GlobalData,Analytics & KPO ,40,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",442,35000,28,16,61
+NTT,IT Services & Consulting ,18,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,438,35000,34,31,64
+Satya MicroCapital,Financial Services ,8,3.9,Salary & Benefits,"Work Life Balance, Work Satisfaction",438,15000,36,30,48
+NecLife,Pharma ,29,3.7,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",437,21000,23,1,55
+Technip Energies,Engineering & Construction ,66,4.1,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,436,28000,49,58,48
+Bristlecone,IT Services & Consulting ,26,3.7,Work Life Balance,Promotions / Appraisal,435,53000,31,9,59
+BharatMatrimony.com,Internet ,27,3.9,Job Security,Promotions / Appraisal,435,18000,15,7,32
+Ather Energy,Automobile ,11,4.1,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,434,28000,35,15,37
+Ultimate Kronos Group,IT Services & Consulting ,4,3.6,"Salary & Benefits, Work Life Balance","Promotions / Appraisal, Job Security, Work Satisfaction",433,33000,34,114,57
+Bridgestone,Auto Components ,28,4.1,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,432,22000,25,1,61
+Pennar Industries,Engineering & Construction ,36,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",432,27000,19,17,64
+ASG Eye Hospital,Healthcare ,19,3.9,Skill Development / Learning,Promotions / Appraisal,431,13000,26,104,41
+Amar Ujala,Printing & Publishing ,76,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,429,18000,14,47,53
+Nucleus Software Exports,Software Product ,38,3.8,Job Security,"Work Life Balance, Work Satisfaction",429,45000,21,9,79
+BSCPL Infrastructure,Engineering & Construction ,52,3.7,"Job Security, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",428,16000,26,3,58
+Cuemath,EdTech ,11,3.9,Work Life Balance,"Promotions / Appraisal, Job Security",427,17000,24,132,87
+PCBL Limited,Petrochemicals ,64,3.9,"Salary & Benefits, Promotions / Appraisal",Work Life Balance,425,22000,44,5,50
+Apollo Health and Lifestyle,Healthcare ,22,4.2,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,424,21000,21,2,51
+Delta Electronics,Electronics Manufacturing ,32,3.9,"Job Security, Work Life Balance",Promotions / Appraisal,423,28000,35,2,44
+Blackberrys,Fashion & Textile ,33,4.1,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,423,18000,19,17,50
+Gartner,Management Consulting ,45,4.2,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,421,44000,30,846,34
+Tecnimont,Engineering & Construction ,19,3.9,Job Security,"Work Life Balance, Promotions / Appraisal, Company Culture",417,22000,14,38,62
+Suraksha Diagnostic,Healthcare ,32,3.8,Skill Development / Learning,Promotions / Appraisal,417,14000,29,25,46
+NJ India Invest,Financial Services ,30,3.8,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,415,11000,36,284,69
+Hinduja Housing Finance,NBFC ,9,4.0,Job Security,Promotions / Appraisal,415,17000,20,5,31
+CJ Darcl Logistics Limited,Logistics ,38,4.0,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,412,14000,21,7,46
+RuralShores,BPO ,16,4.1,"Skill Development / Learning, Work Satisfaction, Company Culture",Promotions / Appraisal,411,11000,10,2,64
+Riya Travel,Travel & Tourism ,44,3.8,Skill Development / Learning,Promotions / Appraisal,411,2000,8,6,40
+EdgeVerve Systems,Software Product ,10,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits",411,44000,40,40,77
+Hamilton Housewares,Consumer Electronics & Appliances ,52,4.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,410,2000,23,17,33
+IRB Infrastructure,Engineering & Construction ,26,4.2,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,410,12000,10,23,59
+CtrlS,IT Services & Consulting ,17,3.6,Salary & Benefits,"Company Culture, Work Life Balance, Work Satisfaction",409,26000,32,14,90
+Continental,Auto Components ,153,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,406,33000,35,144,53
+Capco Technologies,IT Services & Consulting ,26,3.7,Work Life Balance,"Promotions / Appraisal, Job Security, Work Satisfaction",406,36000,46,109,52
+RAK Ceramics,Building Material ,35,3.9,"Job Security, Skill Development / Learning",Promotions / Appraisal,402,16000,23,2,54
+Marelli,Auto Components ,105,3.9,Work Life Balance,Promotions / Appraisal,402,25000,25,5,73
+Efs Facilities Services,Facility Management Services ,18,3.9,"Skill Development / Learning, Company Culture",Promotions / Appraisal,395,11000,16,6,61
+Satyam Auto Components,Auto Components ,23,4.0,Job Security,Promotions / Appraisal,394,23000,20,1,44
+Dr. Reddy's Foundation,Non-Profit ,28,4.1,"Skill Development / Learning, Work Life Balance, Company Culture",Promotions / Appraisal,391,15000,39,7,81
+Leighton Contractors,Engineering & Construction ,26,4.1,"Salary & Benefits, Company Culture, Skill Development / Learning",Job Security,390,1000,8,4,62
+IDBI Intech Limited,IT Services & Consulting ,24,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",389,25000,23,16,51
+National Payments Corporation of India,FinTech ,14,3.8,"Job Security, Skill Development / Learning",Promotions / Appraisal,389,3000,35,55,40
+Carrier,Consumer Electronics & Appliances ,109,4.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,387,29000,31,108,45
+British Council,Education & Training ,90,3.7,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",385,23000,15,2,55
+Wellness Forever Medicare,Retail ,16,3.9,"Skill Development / Learning, Company Culture",Promotions / Appraisal,385,15000,29,1,38
+Torry Harris Integration Solutions,IT Services & Consulting ,26,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,385,45000,36,38,51
+Jiva Ayurvedic Pharmacy,Healthcare ,32,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",385,12000,18,38,52
+Inspirisys Solution,IT Services & Consulting ,33,4.0,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,384,32000,28,21,27
+Navin Fluorine International,Chemicals ,57,4.1,"Job Security, Work Life Balance",Promotions / Appraisal,381,23000,21,5,47
+Emerson Electric Co.,IT Services & Consulting ,134,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,381,31000,36,243,44
+Škoda Auto Volkswagen,Automobile ,23,4.3,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,380,25000,15,5,47
+Paramount Health Services Tpa,Internet ,22,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",378,19000,21,51,37
+RealPage,IT Services & Consulting ,26,3.8,"Company Culture, Work Life Balance",Promotions / Appraisal,378,32000,30,188,53
+Global Autotech,Auto Components ,19,4.0,"Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits",377,2000,42,5,46
+Venky's,FMCG ,48,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",376,14000,14,22,31
+ExxonMobil,Oil & Gas ,2024,3.8,Salary & Benefits,"Work Satisfaction, Job Security, Promotions / Appraisal",376,3000,44,27,64
+Transrail Lighting,Engineering & Construction ,16,4.0,Job Security,Promotions / Appraisal,375,18000,22,3,49
+Cotiviti,Analytics & KPO ,45,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,374,31000,41,16,56
+Impetus Technologies,IT Services & Consulting ,33,3.7,Job Security,Work Satisfaction,371,42000,45,66,56
+Lakme,Beauty & Personal Care ,44,4.2,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,371,15000,12,7,49
+Alight Solutions,IT Services & Consulting ,28,4.0,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",370,23000,14,3,55
+ThoughtWorks,IT Services & Consulting ,31,4.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,370,4000,55,2,48
+Suprajit Engineering,Auto Components ,39,3.7,Job Security,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction",369,21000,25,9,54
+TTK Healthcare,Healthcare ,96,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,368,13000,10,18,57
+IDP Education Limited,EdTech ,29,3.9,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,367,22000,32,42,51
+Giesecke & Devrient,IT Services & Consulting ,172,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,367,21000,12,6,68
+Kokilaben Dhirubhai Ambani Hospital,Healthcare ,15,3.9,"Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits",366,15000,16,35,35
+Avery Dennison,Packaging ,29,4.0,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,366,18000,13,59,58
+R.S. Infraprojects,Real Estate ,19,4.0,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,364,14000,12,1,64
+Maharashtra Seamless,Building Material ,36,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",363,19000,28,2,39
+Iron Mountain Inc,IT Services & Consulting ,73,3.8,"Company Culture, Work Life Balance",Promotions / Appraisal,362,27000,15,1,50
+Reliance Life Sciences,Clinical Research ,23,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",362,22000,12,6,59
+Krsnaa Diagnostics,Healthcare ,14,4.0,Skill Development / Learning,Promotions / Appraisal,361,11000,15,24,35
+Capital Foods,Food Processing ,28,4.0,Salary & Benefits,"Promotions / Appraisal, Job Security",360,13000,23,2,57
+Pinnacle Infotech,IT Services & Consulting ,32,3.6,"Job Security, Skill Development / Learning","Company Culture, Salary & Benefits, Work Life Balance",358,22000,35,12,60
+Varuna Integrated Logistics,Logistics ,28,3.8,Job Security,Promotions / Appraisal,357,15000,28,36,41
+Electrosteel Casting,Building Material ,69,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",356,18000,26,3,42
+Dusters Total Solutions Services,Facility Management Services ,30,4.0,Work Life Balance,Promotions / Appraisal,356,14000,9,1,44
+Supertech,Real Estate ,36,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",356,19000,14,5,37
+Wolters Kluwer,IT Services & Consulting ,188,3.9,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,356,35000,47,78,58
+National Bulk Handling Corporation,Agriculture ,21,4.0,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,355,12000,12,23,43
+Rieter,Industrial Machinery ,29,3.9,"Work Life Balance, Company Culture",Promotions / Appraisal,355,21000,12,6,52
+Safari Industries India,Fashion & Textile ,50,4.1,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,351,15000,14,5,33
+Commonwealth Bank of Australia,Banking ,113,3.8,"Salary & Benefits, Work Life Balance, Job Security",Promotions / Appraisal,351,38000,46,8,51
+B. Braun Medical,Healthcare ,185,4.0,"Skill Development / Learning, Work Life Balance",Promotions / Appraisal,350,15000,18,1,65
+RPG Life Sciences,Pharma ,31,4.1,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,349,14000,9,6,51
+Worldline Global Services,IT Services & Consulting ,50,3.9,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,349,32000,23,1,46
+SABIC,Chemicals ,48,4.2,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,349,15000,21,12,56
+Chemplast Sanmar,Chemicals ,57,3.8,Job Security,"Promotions / Appraisal, Company Culture, Salary & Benefits",347,19000,25,12,34
+Honda Logistics,Logistics ,19,3.9,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,347,14000,18,5,48
+Sanmina Sci,Electronics Manufacturing ,44,4.2,"Work Satisfaction, Skill Development / Learning, Job Security",Promotions / Appraisal,345,23000,19,19,54
+Siemens Healthineers,Healthcare ,128,3.9,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,342,3000,30,4,58
+Paharpur Cooling Towers,Industrial Machinery ,76,4.0,"Job Security, Salary & Benefits","Promotions / Appraisal, Skill Development / Learning",342,16000,10,6,30
+Labournet Services,Non-Profit ,18,3.9,Work Life Balance,"Job Security, Promotions / Appraisal",342,11000,18,12,52
+Meghmani Organics,Chemicals ,38,4.0,"Job Security, Work Life Balance, Work Satisfaction","Promotions / Appraisal, Salary & Benefits",341,2000,32,1,33
+Evelyn Learning Systems,EdTech ,11,3.8,Company Culture,"Promotions / Appraisal, Salary & Benefits, Job Security",338,1000,37,1,92
+Aker Solutions,Engineering & Construction ,183,4.0,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,338,24000,22,1,45
+National Stock Exchange of India,Financial Services ,32,3.6,Job Security,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",337,32000,22,1,36
+Ralson India,Auto Components ,50,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",337,16000,22,3,33
+Novac Technology Solutions,Software Product ,18,4.0,"Job Security, Work Life Balance, Company Culture",Salary & Benefits,337,27000,34,88,43
+Ascent Consulting Services,Software Product ,22,3.8,Skill Development / Learning,Promotions / Appraisal,336,17000,18,13,21
+Keysight Technologies,Electronics Manufacturing ,10,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,336,23000,17,19,53
+Allcargo Logistics,Logistics ,31,3.9,"Job Security, Work Life Balance",Promotions / Appraisal,334,18000,11,1,46
+Allcargo Logistics,Logistics ,31,3.9,"Job Security, Work Life Balance",Promotions / Appraisal,334,18000,11,1,46
+Numeric UPS,Consumer Electronics & Appliances ,40,4.0,Work Life Balance,Promotions / Appraisal,333,829,6,32,4
+Essar Group,Engineering & Construction ,55,4.0,"Work Life Balance, Job Security",Promotions / Appraisal,333,17000,19,8,47
+Sleek International,Furniture & Furnishing ,31,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",333,13000,20,1,45
+Axa XL,Insurance ,38,3.7,Job Security,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",333,28000,23,18,62
+Hettich,Furniture & Furnishing ,136,3.8,Job Security,"Promotions / Appraisal, Company Culture, Skill Development / Learning",333,2000,18,8,39
+Scaler Academy,EdTech ,5,3.9,"Salary & Benefits, Work Life Balance, Company Culture",Job Security,332,16000,41,12,88
+Ind-Swift Laboratories,Pharma ,29,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",332,18000,11,5,58
+Galaxy Surfactants,Chemicals ,44,3.9,"Job Security, Skill Development / Learning",Promotions / Appraisal,331,15000,17,4,62
+Ventura Securities,Financial Services ,30,4.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,331,14000,23,8,31
+Indorama,Fashion & Textile ,49,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,331,15000,14,9,39
+Insolutions Global,FinTech ,20,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",330,22000,14,3,23
+Eurokids,Education & Training ,23,4.0,"Skill Development / Learning, Company Culture, Work Life Balance","Salary & Benefits, Promotions / Appraisal",330,13000,12,2,38
+Balmer Lawrie,Packaging ,157,4.0,Job Security,Promotions / Appraisal,329,17000,18,13,40
+IIC Technologies,IT Services & Consulting ,30,3.9,Job Security,"Salary & Benefits, Promotions / Appraisal",328,13000,10,18,31
+Accion Labs,IT Services & Consulting ,13,3.7,Work Life Balance,Promotions / Appraisal,327,41000,29,180,45
+Kirloskar Ferrous Industries,Iron & Steel ,33,4.0,"Job Security, Skill Development / Learning, Company Culture","Salary & Benefits, Promotions / Appraisal",326,13000,14,2,33
+Anthem Biosciences,Pharma ,18,4.1,"Job Security, Skill Development / Learning, Salary & Benefits",Company Culture,325,24000,20,9,33
+Mrs Bector's Food Specialities,FMCG ,46,4.1,Skill Development / Learning,Promotions / Appraisal,325,12000,15,2,35
+Flowserve,Industrial Machinery ,27,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,324,27000,18,28,54
+Sheela Foam,Furniture & Furnishing ,53,4.2,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,323,12000,18,3,35
+Dana India,Auto Components ,120,4.1,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,323,16000,15,9,61
+Rakuten,IT Services & Consulting ,27,3.7,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,323,39000,46,90,56
+India Glycols,Chemicals ,41,4.0,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",321,17000,13,1,35
+Tredence,IT Services & Consulting ,11,3.7,Skill Development / Learning,"Work Life Balance, Promotions / Appraisal, Work Satisfaction",321,32000,62,149,45
+Groupm Media,Marketing & Advertising ,21,4.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",320,3000,22,24,37
+Tetra Pak,Packaging ,37,4.2,"Company Culture, Job Security, Salary & Benefits",Promotions / Appraisal,320,2000,22,28,66
+Toshiba JSW Power Systems,Industrial Machinery ,11,4.3,"Salary & Benefits, Work Life Balance, Company Culture",Job Security,319,2000,14,1,46
+Cosmo Films,Packaging ,43,3.8,Job Security,Promotions / Appraisal,319,17000,22,22,51
+Sapiens,IT Services & Consulting ,42,3.6,Job Security,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",319,38000,33,32,68
+CommScope,Telecom ,48,3.8,"Work Life Balance, Company Culture",Promotions / Appraisal,318,27000,17,31,54
+Novartis Healthcare,Pharma ,28,4.1,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,316,42000,19,4,46
+Novartis Healthcare,Pharma ,28,4.1,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,316,42000,19,4,46
+Shivalik Small Finance Bank,Banking ,27,3.9,Work Life Balance,Promotions / Appraisal,316,14000,21,7,46
+Zoomcar,Internet ,12,3.8,Work Life Balance,"Job Security, Promotions / Appraisal",316,17000,13,150,44
+Exicom,Semiconductors ,30,4.0,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,315,19000,24,11,49
+C-Edge Technologies,IT Services & Consulting ,18,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,315,22000,10,3,40
+Buzzworks Business Services,Recruitment ,25,3.9,"Work Life Balance, Company Culture",Promotions / Appraisal,314,17000,12,42,21
+Aarti Drugs,Pharma ,40,3.8,"Skill Development / Learning, Job Security","Salary & Benefits, Promotions / Appraisal",313,16000,12,1,27
+Aarti Drugs,Pharma ,40,3.8,"Skill Development / Learning, Job Security","Salary & Benefits, Promotions / Appraisal",313,16000,12,1,27
+Ceinsys Tech,IT Services & Consulting ,26,3.9,Work Life Balance,Promotions / Appraisal,313,13000,8,8,30
+Mahendra NextWealth IT,IT Services & Consulting ,15,3.8,Job Security,"Salary & Benefits, Promotions / Appraisal",313,12000,7,3,19
+Acko General Insurance,Insurance ,8,3.9,Company Culture,Promotions / Appraisal,313,16000,24,25,28
+Epiroc,Industrial Machinery ,151,4.0,Work Life Balance,Promotions / Appraisal,312,19000,19,2,45
+Citrix,Software Product ,35,3.7,"Salary & Benefits, Company Culture, Work Life Balance","Job Security, Promotions / Appraisal",311,25000,39,38,42
+Supr Daily,Internet ,9,4.1,Skill Development / Learning,Job Security,311,15000,18,1,40
+Fuji Electric,Industrial Machinery ,101,4.0,Job Security,"Promotions / Appraisal, Salary & Benefits",310,15000,10,1,17
+Diya Systems,BPO ,22,3.5,Job Security,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction",307,15000,13,9,56
+Jupiter Hospital,Healthcare ,17,4.1,"Skill Development / Learning, Job Security",Promotions / Appraisal,305,13000,14,2,25
+Hajee A P Bava Construction,Engineering & Construction ,74,3.9,Skill Development / Learning,Salary & Benefits,305,1000,4,6,27
+Sri Krishna Pharmaceuticals,Pharma ,50,4.1,"Work Life Balance, Job Security",Promotions / Appraisal,303,17000,7,1,37
+Eversendai,Engineering & Construction ,40,3.9,Job Security,Promotions / Appraisal,303,16000,22,2,42
+Eversendai,Engineering & Construction ,40,3.9,Job Security,Promotions / Appraisal,303,16000,22,2,42
+Indian Immunologicals,Biotechnology ,42,4.1,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",302,16000,10,2,48
+Symbiotec Pharmalab,Pharma ,30,3.8,Job Security,"Promotions / Appraisal, Company Culture",302,17000,19,6,37
+National Collateral Management Services,Government ,20,4.0,Company Culture,Promotions / Appraisal,302,11000,5,3,45
+Kirby Building Systems,Engineering & Construction ,26,4.0,Job Security,"Promotions / Appraisal, Skill Development / Learning",301,15000,13,7,34
+SoftwareONE,Software Product ,24,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,301,3000,25,3,53
+ABIS Exports,Food Processing ,39,4.0,"Skill Development / Learning, Company Culture",Promotions / Appraisal,300,13000,18,7,21
+Techwave Consulting,IT Services & Consulting ,20,3.9,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,300,3000,21,53,24
+Yokohama Off-Highway Tires,Auto Components ,17,3.9,Job Security,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",300,16000,24,5,37
+Orra Fine Jewellery,Jewellery ,136,3.9,Salary & Benefits,Work Satisfaction,300,11000,18,75,26
+OnePlus,Consumer Electronics & Appliances ,11,4.1,"Skill Development / Learning, Work Life Balance, Company Culture",Promotions / Appraisal,299,18000,26,5,46
+Elecon Engineering,Electrical Equipment ,73,4.3,"Work Life Balance, Skill Development / Learning, Company Culture",Job Security,299,14000,10,4,35
+Jubilant Ingrevia,Chemicals ,4,3.9,Job Security,Promotions / Appraisal,299,17000,27,4,20
+ACG Associated Capsules,Pharma ,60,4.0,Skill Development / Learning,Promotions / Appraisal,298,13000,13,18,46
+Broadcom,Semiconductors ,48,3.4,Salary & Benefits,"Job Security, Promotions / Appraisal, Company Culture",295,32000,17,1,41
+Runwal Group,Real Estate ,46,3.9,Job Security,Promotions / Appraisal,294,19000,14,3,39
+Mjunction Services,IT Services & Consulting ,23,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,294,18000,8,1,43
+RapiPay,FinTech ,6,3.6,Salary & Benefits,"Promotions / Appraisal, Job Security",294,12000,17,77,22
+Win Medicare,Pharma ,19,4.0,"Work Life Balance, Skill Development / Learning, Work Satisfaction",Promotions / Appraisal,293,867,14,1,35
+NetApp,IT Services & Consulting ,32,4.0,"Work Life Balance, Salary & Benefits, Company Culture","Job Security, Promotions / Appraisal",293,34000,35,167,39
+Kandhari Beverages,Beverage ,57,4.0,Job Security,Promotions / Appraisal,290,12000,14,7,22
+SBI Mutual Fund,Financial Services ,37,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",290,16000,13,38,37
+Bonfiglioli Transmissions Private Limited,Industrial Machinery ,68,3.8,Job Security,"Promotions / Appraisal, Company Culture, Work Life Balance",289,15000,20,3,38
+Landis+Gyr,Electrical Equipment ,128,3.7,Work Life Balance,"Skill Development / Learning, Job Security, Promotions / Appraisal",289,26000,21,21,45
+BCG,Management Consulting ,61,3.7,Salary & Benefits,Work Life Balance,289,63000,142,10,43
+Apex Laboratories,Pharma ,46,4.0,"Job Security, Work Life Balance, Company Culture",Salary & Benefits,288,16000,16,2,33
+Ashapura Group Of Industries,Metals & Mining ,64,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,288,16000,16,6,46
+Tata BlueScope Steel,Iron & Steel ,22,3.8,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",287,13000,14,3,35
+LogixHealth,IT Services & Consulting ,34,3.6,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance",287,16000,11,6,36
+National Organic Chemical Industries,Chemicals ,49,4.0,"Job Security, Work Life Balance, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",287,16000,16,1,46
+Spectrum Talent Management,Recruitment ,16,3.7,Work Life Balance,"Promotions / Appraisal, Job Security, Salary & Benefits",286,16000,10,433,25
+Aludecor Lamination,Architecture & Interior Design ,20,3.9,Skill Development / Learning,Promotions / Appraisal,285,14000,22,7,30
+Mann And Hummel Filter,Industrial Machinery ,82,4.0,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",285,15000,12,6,41
+Elite Elevators,Industrial Machinery ,16,3.6,Salary & Benefits,"Work Life Balance, Job Security, Company Culture",285,596,13,104,83
+Piramal Swasthya,Healthcare ,17,4.2,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,285,911,8,4,38
+KRBL,Food Processing ,135,4.0,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",284,12000,20,20,29
+Vasan Eye Care Hospitals,Healthcare ,22,4.1,"Company Culture, Skill Development / Learning, Job Security",Promotions / Appraisal,284,623,3,16,25
+Vistara,Aviation ,11,3.6,Job Security,"Work Satisfaction, Promotions / Appraisal, Company Culture",284,18000,46,18,35
+TIBCO Software,Software Product ,27,3.8,"Work Life Balance, Company Culture",Promotions / Appraisal,283,4000,28,58,61
+Buhler,Industrial Machinery ,164,4.0,"Job Security, Work Life Balance",Promotions / Appraisal,282,15000,14,1,39
+Ksb Pumps,Industrial Machinery ,64,3.9,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,282,12000,19,34,34
+IPE Global,Management Consulting ,26,4.0,"Work Life Balance, Work Satisfaction, Company Culture","Job Security, Promotions / Appraisal",281,11000,14,6,37
+KLAY Schools,Education & Training ,13,3.9,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,279,13000,23,37,44
+LT Foods,Food Processing ,34,4.1,"Job Security, Company Culture, Work Satisfaction",Promotions / Appraisal,279,14000,12,1,42
+Urban Ladder,Furniture & Furnishing ,12,3.9,Work Life Balance,"Job Security, Promotions / Appraisal",279,14000,34,43,31
+Fynd,Internet ,12,3.6,"Salary & Benefits, Skill Development / Learning",Job Security,279,13000,18,37,29
+Kelly Services,Recruitment ,78,4.3,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,278,15000,9,84,41
+Pon Pure Chemical,Chemicals ,43,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,278,12000,9,3,32
+Aizant Drug Research Solutions,Clinical Research ,19,3.9,"Skill Development / Learning, Work Satisfaction","Salary & Benefits, Promotions / Appraisal",278,14000,8,10,30
+K L University,Education & Training ,44,3.9,Skill Development / Learning,Promotions / Appraisal,276,1000,29,8,30
+Welspun Flooring,Building Material ,8,3.8,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits, Company Culture",276,11000,19,5,28
+Haldia Petrochemicals,Petrochemicals ,39,3.7,"Job Security, Work Life Balance","Company Culture, Work Satisfaction, Promotions / Appraisal",274,16000,25,7,49
+ArcelorMittal,Iron & Steel ,18,4.0,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,274,16000,20,8,27
+Flatworld Solutions,BPO ,18,3.9,Work Life Balance,"Salary & Benefits, Promotions / Appraisal",273,26000,16,39,39
+Diamondpick,Recruitment ,6,4.1,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,273,12000,6,13,15
+Essilor,Medical Equipment ,175,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,273,16000,8,11,24
+Amoli Organics,Pharma ,33,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",272,18000,9,6,37
+Hyundai Glovis,Logistics ,23,4.0,Job Security,Promotions / Appraisal,271,15000,7,5,50
+Encube Ethicals,Pharma ,24,3.7,"Job Security, Skill Development / Learning","Work Life Balance, Work Satisfaction, Company Culture",270,18000,12,13,31
+Nibav Lifts,Industrial Machinery ,5,3.7,Salary & Benefits,Job Security,270,644,18,21,30
+Neilsoft,Engineering & Construction ,31,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",270,22000,25,24,26
+Kiswok Industries,Auto Components ,67,3.5,Skill Development / Learning,"Promotions / Appraisal, Company Culture, Salary & Benefits",269,13000,22,18,35
+GMR Hyderabad International Airport,Aviation ,24,4.0,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",269,12000,13,1,50
+Adient,Auto Components ,28,3.9,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,268,19000,11,1,68
+Hitachi Hi-Rel Power Electronics,Electronics Manufacturing ,41,3.5,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",267,16000,15,3,34
+Nestaway,Internet ,9,4.0,Work Life Balance,"Job Security, Promotions / Appraisal",267,21000,10,1,36
+Nous Infosystems,IT Services & Consulting ,28,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,267,32000,19,33,38
+GD Research Center,Analytics & KPO ,17,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",266,23000,17,5,43
+HDFC Mutual Fund,Financial Services ,25,3.9,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",266,16000,14,2,19
+Gtpl Hathway,Broadcasting ,18,4.1,"Work Life Balance, Job Security",Promotions / Appraisal,266,14000,19,12,23
+Saksoft,IT Services & Consulting ,25,3.8,Work Life Balance,Promotions / Appraisal,266,27000,15,34,25
+Bmm Ispat,Iron & Steel ,48,4.0,"Work Life Balance, Skill Development / Learning",Promotions / Appraisal,264,1000,15,5,37
+Air Liquide,Chemicals ,122,4.0,"Job Security, Company Culture",Promotions / Appraisal,264,13000,15,12,33
+Alfa Laval,Industrial Machinery ,141,4.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,264,14000,18,26,45
+Konecranes,Industrial Machinery ,49,4.1,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,263,17000,15,1,53
+Elentec India,IT Services & Consulting ,42,3.7,Job Security,Promotions / Appraisal,263,13000,19,8,54
+BrightCHAMPS,EdTech ,4,3.7,Work Life Balance,Promotions / Appraisal,262,670,23,5,45
+Equiniti,IT Services & Consulting ,10,3.7,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",261,25000,14,93,33
+Merck Life Science,Pharma ,356,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,260,2000,13,13,33
+Mahindra Insurance Brokers,Insurance ,20,3.8,Work Life Balance,Promotions / Appraisal,260,1000,8,3,40
+Sumitomo Chemical,Chemicals ,99,4.1,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,259,14000,14,2,26
+Bangalore International Airport,Aviation ,23,4.3,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,259,13000,15,17,35
+Global Indian International School,Education & Training ,16,4.0,"Job Security, Skill Development / Learning",Promotions / Appraisal,259,922,14,21,56
+Yodlee,Software Product ,25,3.8,"Company Culture, Work Life Balance, Salary & Benefits","Skill Development / Learning, Work Satisfaction",258,25000,16,11,69
+Godrej Infotech,IT Services & Consulting ,25,4.2,"Job Security, Work Life Balance, Company Culture",Salary & Benefits,258,17000,16,25,29
+Volkswagen Group Technology Solution,Software Product ,8,3.9,"Job Security, Work Life Balance, Salary & Benefits",Promotions / Appraisal,258,18000,30,7,6
+Sotc Travel Services,Travel & Tourism ,75,3.8,Skill Development / Learning,Promotions / Appraisal,257,14000,8,3,28
+AIS Glass Solutions,Building Material ,40,3.8,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal, Work Life Balance",257,14000,21,14,43
+Ample Technologies,IT Services & Consulting ,28,3.8,Job Security,Promotions / Appraisal,257,13000,16,27,33
+AirAsia,Aviation ,11,3.6,Job Security,"Promotions / Appraisal, Work Satisfaction, Work Life Balance",257,15000,26,8,47
+Vyapar,Software Product ,7,3.8,Salary & Benefits,Job Security,256,859,18,33,38
+Jetking Infotrain,Education & Training ,77,3.7,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal",255,964,9,3,31
+Kokuyo Camlin,FMCG ,93,4.2,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",255,1000,9,6,28
+Incred Finance,NBFC ,8,4.1,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,255,17000,11,24,20
+Addverb Technologies,Industrial Automation ,8,3.6,Salary & Benefits,"Work Life Balance, Job Security, Work Satisfaction",254,14000,29,13,33
+Evolent Health International,Software Product ,13,3.9,"Work Life Balance, Company Culture, Salary & Benefits",Job Security,254,15000,19,16,39
+Technicolor,Animation & VFX ,131,4.0,"Company Culture, Work Life Balance","Promotions / Appraisal, Job Security",253,2000,17,17,50
+Veeda Clinical Research,Clinical Research ,20,4.1,"Company Culture, Job Security, Skill Development / Learning",Promotions / Appraisal,252,13000,8,7,34
+Stanley Black & Decker,Industrial Machinery ,181,4.0,"Work Life Balance, Company Culture",Promotions / Appraisal,252,16000,12,11,33
+Mars,Food Processing ,133,3.8,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction",251,865,8,5,15
+Valvoline Cummins,Auto Components ,26,4.0,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal,251,12000,8,3,31
+Freecharge,FinTech ,14,4.1,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,250,2000,21,61,18
+Manhattan Associates,IT Services & Consulting ,34,3.9,Job Security,Work Satisfaction,250,32000,25,12,49
+Nilons Enterprises,Food Processing ,62,4.1,Work Life Balance,Promotions / Appraisal,249,1000,11,1,40
+MN Dastur & Company,Metals & Mining ,69,3.8,"Work Life Balance, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Job Security",249,861,6,1,45
+Concord Biotech,Pharma ,24,3.7,Job Security,"Salary & Benefits, Promotions / Appraisal, Skill Development / Learning",248,17000,12,7,24
+Cimpress,Printing & Publishing ,29,4.0,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,248,2000,29,43,45
+Oberoi Realty,Real Estate ,44,3.9,Work Life Balance,Promotions / Appraisal,246,16000,15,7,43
+Syncfusion,Software Product ,23,3.6,"Job Security, Skill Development / Learning","Company Culture, Work Life Balance, Salary & Benefits",246,16000,26,12,42
+Spice Money,FinTech ,24,4.1,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,246,1000,19,4,25
+Titan Laboratories,Pharma ,20,3.7,Job Security,"Promotions / Appraisal, Work Satisfaction",246,803,6,15,58
+GM Modular,Electrical Equipment ,24,4.0,Job Security,Promotions / Appraisal,246,14000,10,29,38
+Nava Limited,Metals & Mining ,52,3.9,"Work Life Balance, Job Security",Promotions / Appraisal,245,11000,13,13,29
+ProConnect Integrated Logistics,Logistics ,12,3.9,"Job Security, Work Life Balance",Promotions / Appraisal,244,14000,9,17,27
+Associated Road Carriers,Logistics ,52,4.2,"Job Security, Salary & Benefits, Work Life Balance",Promotions / Appraisal,244,908,12,9,15
+Berkadia,Real Estate ,15,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,244,19000,13,7,37
+Hollister Medical,Medical Equipment ,103,4.1,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,243,868,15,6,44
+Hollister Medical,Medical Equipment ,103,4.1,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,243,868,15,6,44
+ReachLocal Services,Marketing & Advertising ,14,3.8,"Work Life Balance, Company Culture",Promotions / Appraisal,242,948,14,32,24
+Ubisoft Entertainment,Gaming ,38,4.0,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",241,18000,26,6,50
+The Hershey Company,Food Processing ,130,4.1,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,239,996,12,8,27
+Roche Diagnostics,Pharma ,128,3.7,Salary & Benefits,"Promotions / Appraisal, Job Security, Work Satisfaction",238,13000,11,2,26
+Khimji Ramdas,Retail ,154,4.1,"Job Security, Work Life Balance",Promotions / Appraisal,238,841,10,11,26
+Sabre,Software Product ,64,3.9,"Work Life Balance, Company Culture, Salary & Benefits","Job Security, Promotions / Appraisal",238,24000,20,9,41
+Onida,Consumer Electronics & Appliances ,43,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",238,778,4,2,20
+MapmyIndia,Software Product ,32,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",238,16000,15,5,25
+TÜV Rheinland,Law Enforcement & Security ,152,4.1,"Company Culture, Work Life Balance",Promotions / Appraisal,237,12000,8,1,29
+CK Birla Group,Building Material ,162,4.1,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,237,12000,7,2,28
+HungerBox,Internet ,8,3.8,Work Life Balance,"Promotions / Appraisal, Job Security",237,12000,12,5,33
+Orion Innovation,IT Services & Consulting ,31,3.6,Skill Development / Learning,"Promotions / Appraisal, Work Life Balance",237,26000,19,19,13
+Sub-K IMPACT Solutions,Financial Services ,14,4.0,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,237,772,14,7,33
+Bombay Intelligence Security,Law Enforcement & Security ,48,3.8,Skill Development / Learning,Promotions / Appraisal,237,632,10,10,29
+Vayam Info Solutions,Recruitment ,14,3.8,Company Culture,"Promotions / Appraisal, Salary & Benefits",236,989,12,1,20
+Indus Net Technologies,IT Services & Consulting ,27,3.7,Work Life Balance,"Promotions / Appraisal, Work Satisfaction, Company Culture",235,17000,12,30,22
+Mitra SK,Other ,86,3.9,"Skill Development / Learning, Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",234,928,12,3,28
+Planetcast,Media & Entertainment ,28,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",233,15000,11,8,22
+Moody's Analytics,Analytics & KPO ,17,3.7,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",233,28000,12,40,24
+Sir H. N. Reliance Foundation Hospital and Research,Healthcare ,99,3.9,"Salary & Benefits, Job Security","Work Satisfaction, Work Life Balance",233,759,13,16,11
+Toshiba Transmission & Distribution Systems,Electrical Equipment ,130,4.0,Job Security,Promotions / Appraisal,232,15000,19,34,44
+Oriflame,Beauty & Personal Care ,57,3.9,"Company Culture, Work Life Balance",Promotions / Appraisal,231,846,9,2,44
+ESAB,Industrial Machinery ,37,4.2,"Job Security, Work Life Balance, Work Satisfaction","Promotions / Appraisal, Salary & Benefits",231,13000,16,1,40
+VVF,FMCG ,85,3.7,Job Security,Promotions / Appraisal,230,12000,8,7,28
+Walchandnagar Industries,Industrial Machinery ,116,4.0,"Skill Development / Learning, Work Life Balance, Work Satisfaction",Salary & Benefits,229,12000,7,2,30
+Springer Nature,Printing & Publishing ,18,3.9,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",229,22000,20,11,25
+Walchandnagar Industries,Industrial Machinery ,116,4.0,"Skill Development / Learning, Work Life Balance, Work Satisfaction",Salary & Benefits,229,12000,7,2,30
+Mediamint,Marketing & Advertising ,14,3.9,"Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits",228,19000,23,14,29
+RV Solutions,IT Services & Consulting ,16,4.0,"Work Life Balance, Work Satisfaction, Skill Development / Learning",Promotions / Appraisal,226,12000,6,1,31
+TravelTriangle,Internet ,14,3.8,"Company Culture, Work Life Balance","Salary & Benefits, Promotions / Appraisal, Job Security",226,16000,7,30,44
+Holisol Logistics,Logistics ,15,3.8,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal",225,1000,10,2,30
+Trivium Education Services,EdTech ,14,3.9,Work Life Balance,"Promotions / Appraisal, Job Security",225,876,24,16,24
+Sonalika Group of Companies,Automobile ,55,3.9,Job Security,Promotions / Appraisal,225,12000,16,22,31
+Light & Wonder,Gaming ,51,3.9,"Work Life Balance, Salary & Benefits, Company Culture",Skill Development / Learning,223,28000,14,7,41
+Vem Technologies,Defence & Aerospace ,31,3.9,"Job Security, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal, Company Culture",223,13000,12,1,25
+Dinshaws,Food Processing ,92,3.8,"Work Life Balance, Skill Development / Learning",Promotions / Appraisal,223,936,5,1,21
+CEVA Logistics,Logistics ,18,3.9,Work Life Balance,Promotions / Appraisal,223,11000,5,3,29
+Bihar Rural Livelihoods Promotion Society,Non-Profit ,17,3.8,Skill Development / Learning,"Promotions / Appraisal, Job Security",222,699,11,1,36
+Stelis Biopharma,Pharma ,11,3.8,Skill Development / Learning,"Promotions / Appraisal, Company Culture, Job Security",222,13000,28,1,39
+Ador Welding,Industrial Machinery ,73,4.0,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",222,984,8,16,32
+Sedemac Mechatronics,Emerging Technologies ,17,4.1,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,221,12000,10,3,33
+Grupo Antolin,Auto Components ,74,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",221,14000,16,15,31
+SVC Co-Operative Bank,Banking ,118,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,221,11000,4,5,25
+Grant Thornton Bharat,Accounting & Auditing ,89,3.8,Job Security,"Work Life Balance, Promotions / Appraisal, Work Satisfaction",221,12000,32,7,17
+AIRBUS,Aviation ,54,3.7,"Work Life Balance, Job Security, Salary & Benefits","Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",220,31000,53,6,44
+Rochem Separation Systems,Industrial Machinery ,33,3.9,"Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits",220,11000,14,1,22
+BIC Cello,Other ,66,3.9,"Salary & Benefits, Work Life Balance",Promotions / Appraisal,219,935,8,3,24
+Cotmac Electronics,Industrial Automation ,33,4.1,"Skill Development / Learning, Job Security, Company Culture",Salary & Benefits,218,13000,9,19,14
+Rahee Infratech,Engineering & Construction ,76,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,218,833,20,23,19
+Trelleborg,Industrial Machinery ,72,4.1,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,218,13000,13,5,37
+MTR Foods,FMCG ,100,4.2,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,218,11000,14,47,24
+Lincoln Pharmaceuticals,Pharma ,45,3.6,Job Security,"Salary & Benefits, Promotions / Appraisal, Skill Development / Learning",218,12000,14,6,30
+ATC Telecom Infrastructure,Telecom ,20,4.2,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,218,780,8,33,28
+Empower Retirement,Financial Services ,133,3.8,"Job Security, Salary & Benefits",Promotions / Appraisal,218,21000,19,8,36
+NortonLifeLock's,IT Services & Consulting ,42,4.1,"Work Life Balance, Salary & Benefits, Company Culture",Job Security,218,23000,13,10,41
+Festo,Industrial Automation ,38,4.0,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,217,13000,9,4,38
+TMEIC,Industrial Machinery ,21,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,217,13000,13,6,41
+Unibic Foods,Food Processing ,20,4.1,"Salary & Benefits, Work Life Balance",Promotions / Appraisal,217,943,7,8,22
+Country Inns & Suites,Hospitality ,39,3.9,Job Security,Salary & Benefits,216,811,4,3,36
+Puranik Builders,Real Estate ,56,3.8,Work Life Balance,Promotions / Appraisal,215,12000,5,5,28
+Fourrts,Pharma ,47,4.0,"Job Security, Company Culture, Work Satisfaction","Salary & Benefits, Promotions / Appraisal",215,695,9,5,24
+Sundaram Business Services,BPO ,23,3.5,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",215,11000,4,1,28
+Odessa,Software Product ,26,3.6,Job Security,"Skill Development / Learning, Promotions / Appraisal, Work Satisfaction",215,21000,30,16,57
+Garware Technical Fibres,Fashion & Textile ,48,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Skill Development / Learning",214,12000,9,5,30
+Hays Business Solutions,Recruitment ,13,3.8,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",213,17000,14,25,38
+Groz Engineering Tools,Industrial Machinery ,48,4.2,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal,212,11000,10,2,30
+Meghalaya Cements,Building Material ,21,3.9,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",212,914,14,1,27
+STAR,Broadcasting ,30,4.1,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,211,18000,9,18,27
+Arcesium,IT Services & Consulting ,9,3.8,"Job Security, Salary & Benefits, Company Culture","Work Life Balance, Work Satisfaction, Skill Development / Learning",211,24000,42,27,60
+Nalco water,Waste Management ,96,4.1,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,210,968,12,9,33
+Forbes & Company,Engineering & Construction ,259,4.1,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,210,12000,9,8,25
+Spectranet,Telecom ,24,3.8,Work Life Balance,Promotions / Appraisal,209,12000,10,1,23
+Petrofac Engineering India,Petrochemicals ,21,4.1,Skill Development / Learning,Job Security,209,13000,7,49,19
+Lobo Staffing Solutions,Recruitment ,21,4.2,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,208,11000,15,13,20
+LKQ INDIA,IT Services & Consulting ,26,4.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",207,15000,17,5,27
+Teachmint,EdTech ,4,3.4,Salary & Benefits,"Job Security, Promotions / Appraisal, Work Satisfaction",207,946,15,15,33
+IMC,Ports & Shipping ,89,4.1,"Job Security, Work Life Balance",Promotions / Appraisal,207,13000,12,4,24
+CES,IT Services & Consulting ,28,3.9,Work Life Balance,Promotions / Appraisal,207,2000,26,45,37
+SMC,Medical Equipment ,36,3.9,"Job Security, Work Life Balance, Salary & Benefits","Promotions / Appraisal, Skill Development / Learning",206,16000,16,16,16
+RWS Group,IT Services & Consulting ,68,3.9,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,206,15000,12,6,18
+American Tower Corporation,Telecom ,29,3.9,"Company Culture, Work Life Balance",Promotions / Appraisal,205,12000,4,1,30
+Anand Rathi: Online Stock Trading & Advisory,Financial Services ,30,4.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,205,2000,10,52,27
+Kangaro Industries,Retail ,30,3.9,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,204,1000,12,6,18
+SHV Energy,Oil & Gas ,28,3.8,"Company Culture, Job Security",Promotions / Appraisal,203,11000,10,14,30
+PowerSchool India,EdTech ,17,3.8,"Job Security, Company Culture","Promotions / Appraisal, Work Satisfaction",203,21000,24,35,32
+Aarti Steels,Iron & Steel ,45,3.9,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",202,1000,15,4,29
+Silverskills,BPO ,23,3.8,Job Security,"Promotions / Appraisal, Skill Development / Learning",202,11000,14,19,23
+Vashi Integrated Solutions Limited,Industrial Machinery ,46,4.0,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,202,11000,10,20,26
+UNICEF,Non-Profit ,78,3.9,"Salary & Benefits, Skill Development / Learning","Job Security, Promotions / Appraisal",201,627,16,5,25
+Namaste India Foods,Food Processing ,10,4.0,Skill Development / Learning,Promotions / Appraisal,201,670,5,1,34
+St. John's Medical College Hospital,Analytics & KPO ,20,4.1,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",201,642,3,5,18
+TMF Group,Financial Services ,36,3.7,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,201,14000,10,13,23
+Geo Chem Laboratories,Industrial Machinery ,60,4.0,"Skill Development / Learning, Job Security","Salary & Benefits, Promotions / Appraisal",201,772,7,7,13
+Clifford Chance,Legal ,17,3.7,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",200,17000,11,1,36
+RND Softech,BPO ,25,3.7,Job Security,"Salary & Benefits, Promotions / Appraisal, Company Culture",200,11000,17,1,16
+Securens System,Law Enforcement & Security ,12,4.1,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",200,727,2,1,28
+Malabar Group Of Companies,Jewellery ,31,3.8,"Job Security, Salary & Benefits, Skill Development / Learning",Promotions / Appraisal,200,11000,6,122,20
+Fidelis Technology Services,IT Services & Consulting ,14,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",199,13000,8,1,13
+PaySquare Consultancy,Recruitment ,24,4.1,"Job Security, Skill Development / Learning, Work Satisfaction","Salary & Benefits, Promotions / Appraisal",198,14000,7,6,16
+Indian Institute of Science,Education & Training ,115,4.4,"Skill Development / Learning, Work Life Balance, Work Satisfaction",Promotions / Appraisal,198,12000,15,7,17
+Lam Research,Semiconductors ,44,3.9,"Company Culture, Salary & Benefits","Promotions / Appraisal, Work Satisfaction",198,17000,26,8,29
+Indifi Technologies,Financial Services ,9,3.8,Company Culture,Promotions / Appraisal,198,13000,9,86,16
+Softtek,IT Services & Consulting ,42,3.9,"Company Culture, Work Life Balance",Promotions / Appraisal,197,18000,10,16,31
+Hudson's Bay Company,Retail ,354,4.0,"Company Culture, Work Life Balance, Salary & Benefits","Job Security, Promotions / Appraisal",197,16000,14,14,29
+GITAM University,Education & Training ,44,4.1,"Work Life Balance, Skill Development / Learning, Job Security",Promotions / Appraisal,197,930,14,9,20
+AGI Glaspac,Packaging ,52,3.8,Job Security,"Company Culture, Promotions / Appraisal, Work Satisfaction",196,736,12,1,21
+AGI Glaspac,Packaging ,52,3.8,Job Security,"Company Culture, Promotions / Appraisal, Work Satisfaction",196,736,12,1,21
+Jodas Expoim,Pharma ,18,3.5,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",195,11000,19,2,17
+Civica India,IT Services & Consulting ,23,4.1,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,194,14000,22,28,16
+Motorola,Consumer Electronics & Appliances ,96,4.1,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,194,11000,13,55,11
+Avalara Technologies,FinTech ,20,4.1,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,194,17000,18,113,26
+Pinkerton,Law Enforcement & Security ,174,3.9,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",193,942,10,3,14
+Zen3 Info Solutions,IT Services & Consulting ,2024,4.1,"Work Life Balance, Company Culture",Promotions / Appraisal,193,17000,9,22,26
+Envestnet Asset Management,Financial Services ,25,4.0,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",191,17000,13,17,25
+11:11 Systems,IT Services & Consulting ,56,4.0,"Work Life Balance, Company Culture, Salary & Benefits","Job Security, Promotions / Appraisal",191,16000,9,14,45
+NGA HR,BPO ,55,4.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,190,33000,10,1,27
+Konica Minolta,Industrial Machinery ,24,4.1,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,189,970,6,4,31
+Intersoft Data Labs,IT Services & Consulting ,21,3.7,Work Life Balance,"Job Security, Skill Development / Learning, Promotions / Appraisal",189,16000,15,4,10
+Kotak Mahindra General Insurance,Insurance ,9,3.8,Job Security,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",189,13000,12,23,7
+Zee Learn,Education & Training ,8,3.8,Job Security,Promotions / Appraisal,188,932,8,1,35
+Manipal University,Education & Training ,71,4.0,"Job Security, Work Life Balance",Promotions / Appraisal,187,1000,13,11,22
+Bombay Dyeing,Fashion & Textile ,145,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",187,1000,5,3,30
+Brink's,Logistics ,165,4.3,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,187,659,6,1,29
+Niine,Beauty & Personal Care ,6,3.9,"Salary & Benefits, Company Culture, Skill Development / Learning",Job Security,186,646,9,7,18
+Welspun Global Brands,Fashion & Textile ,24,3.8,Skill Development / Learning,"Promotions / Appraisal, Job Security, Work Satisfaction",186,886,6,4,23
+Guiltfree Industries,FMCG ,8,3.7,Salary & Benefits,"Promotions / Appraisal, Job Security",186,789,14,56,16
+Internshala,Internet ,14,4.0,"Work Life Balance, Company Culture, Work Satisfaction","Salary & Benefits, Promotions / Appraisal",185,563,37,27,19
+American Express Global Business Travel,Travel & Tourism ,8,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,185,15000,7,23,26
+Shopclues,Internet ,13,3.8,"Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits, Job Security",184,13000,3,8,24
+Normet,Industrial Machinery ,62,3.9,Job Security,Promotions / Appraisal,184,948,13,7,32
+Netenrich Technologies,Software Product ,20,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",183,19000,17,25,32
+Kd Logistics,Logistics ,19,4.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,183,759,13,2,21
+Aqualite India,Fashion & Textile ,16,3.8,Salary & Benefits,"Promotions / Appraisal, Job Security, Company Culture",183,752,11,24,9
+Raksha TPA,Insurance ,22,4.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,182,867,5,15,13
+Raksha TPA,Insurance ,22,4.0,"Job Security, Company Culture, Skill Development / Learning",Promotions / Appraisal,182,867,5,15,13
+Health & Glow,Beauty & Personal Care ,27,4.1,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,182,12000,9,3,19
+ICRA Analytics,Analytics & KPO ,25,3.9,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",182,951,21,4,38
+Tata Housing Development Company,Real Estate ,40,4.1,"Salary & Benefits, Work Life Balance, Company Culture",Promotions / Appraisal,181,1000,5,1,30
+FOX Solutions,Industrial Machinery ,29,3.8,"Job Security, Skill Development / Learning",Work Life Balance,181,923,11,20,15
+Shipco Transport,Logistics ,36,3.9,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",181,13000,16,2,21
+SA Infrastructure Consultants,Engineering & Construction ,19,3.9,Work Life Balance,Promotions / Appraisal,180,716,10,10,20
+Trivitron Healthcare,Medical Equipment ,27,3.7,Work Life Balance,"Promotions / Appraisal, Job Security",180,986,16,9,27
+Beam Suntory,Beverage ,10,4.4,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,179,705,12,10,17
+Vishay Components,Electronics Manufacturing ,62,4.2,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal,178,791,8,3,23
+Emerald Jewel Industry India,Jewellery ,40,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",178,12000,8,4,23
+Trigyn Technologies,IT Services & Consulting ,38,3.7,Work Life Balance,"Promotions / Appraisal, Job Security",177,15000,15,23,16
+IDMC,Industrial Machinery ,46,4.0,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",176,853,5,4,15
+MAN Truck & Bus,Automobile ,266,3.8,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Skill Development / Learning",175,738,12,2,23
+Dev Information Technology,IT Services & Consulting ,27,3.9,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,175,971,2,3,15
+Integrated Wireless Solutions,Telecom ,20,4.1,Work Life Balance,"Promotions / Appraisal, Job Security",175,612,6,2,18
+HDFC Credila Financial Services,Financial Services ,18,3.9,"Job Security, Salary & Benefits, Skill Development / Learning",Promotions / Appraisal,175,11000,13,6,18
+Rucha Engineers,Industrial Machinery ,17,3.8,Skill Development / Learning,"Promotions / Appraisal, Job Security, Work Satisfaction",175,11000,13,1,20
+LatentView Analytics,IT Services & Consulting ,18,3.8,"Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits",174,22000,31,10,25
+LatentView Analytics,IT Services & Consulting ,18,3.8,"Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits",174,22000,31,10,25
+Century Enka,Fashion & Textile ,59,4.1,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,174,797,8,3,21
+National Institute for Smart Government,Management Consulting ,22,3.7,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Job Security",174,13000,18,119,16
+Shaadi.com,Internet ,28,3.6,Salary & Benefits,Promotions / Appraisal,174,907,10,11,8
+Faasos Food Services,Internet ,14,4.0,"Salary & Benefits, Company Culture",Work Satisfaction,173,617,1,5,18
+Barmalt Malting,Food Processing ,57,3.9,Work Life Balance,"Promotions / Appraisal, Work Satisfaction",173,885,8,2,25
+Jms Mining Services,Metals & Mining ,22,3.9,"Job Security, Salary & Benefits","Work Life Balance, Company Culture, Work Satisfaction",173,774,15,3,28
+MBL Infrastructure Limited,Engineering & Construction ,29,3.9,Work Satisfaction,Job Security,172,561,7,18,41
+Bright Life Care,Fitness & Wellness ,13,4.1,"Salary & Benefits, Work Life Balance","Job Security, Promotions / Appraisal",172,777,8,22,13
+OnMobile Global,Telecom ,24,3.8,"Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",172,16000,7,5,24
+MAN Energy Solutions,Industrial Machinery ,14,3.8,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",172,12000,12,2,34
+Sopra Banking Software,IT Services & Consulting ,12,3.7,"Job Security, Work Life Balance","Skill Development / Learning, Promotions / Appraisal, Work Satisfaction",172,19000,16,8,46
+Colourtex,Chemicals ,57,3.9,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,172,883,5,1,17
+Avis,Internet ,78,4.0,"Company Culture, Job Security",Promotions / Appraisal,172,767,2,8,36
+EPIQ Systems,IT Services & Consulting ,36,3.9,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,172,14000,7,38,33
+Sai Service,Automobile ,39,4.1,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,171,11000,7,1,22
+Sophos Technologies,Software Product ,39,3.9,Work Life Balance,Promotions / Appraisal,171,16000,12,10,27
+Gap,Fashion & Textile ,28,3.7,"Work Life Balance, Salary & Benefits, Company Culture","Promotions / Appraisal, Job Security",170,19000,17,1,24
+o9 Solutions,IT Services & Consulting ,15,3.9,"Company Culture, Job Security, Salary & Benefits",Work Life Balance,170,19000,27,13,26
+Olympus,Healthcare ,14,4.0,"Job Security, Work Life Balance",Promotions / Appraisal,170,935,3,3,24
+Marine Electricals,Electrical Equipment ,46,3.9,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits, Company Culture",170,11000,15,6,15
+Avanse Financial Services,Financial Services ,12,4.1,"Job Security, Company Culture, Salary & Benefits",Promotions / Appraisal,169,12000,16,39,17
+Unicorn Infosolutions,Retail ,22,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",169,818,9,1,10
+Apmosys Technologies,IT Services & Consulting ,12,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",169,17000,19,3,13
+Alf Engineering,Auto Components ,18,4.0,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,168,11000,13,1,17
+Xylem Water Solutions,Waste Management ,13,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,168,14000,13,3,25
+Snowman Logistics,Logistics ,28,4.1,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,168,842,3,14,14
+Qualys,IT Services & Consulting ,25,3.7,Salary & Benefits,Company Culture,168,15000,10,14,9
+Valmet,Oil & Gas ,86,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,168,893,7,10,24
+Navneet Education,Printing & Publishing ,65,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Work Satisfaction, Salary & Benefits",167,948,7,12,22
+Li & Fung,Electrical Equipment ,118,4.1,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,167,869,6,1,31
+CPA Global,IT Services & Consulting ,55,4.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,166,14000,7,1,45
+Exeltis,Pharma ,21,4.1,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,166,500,9,2,22
+Malladi Drugs & Pharmaceuticals,Pharma ,44,4.1,"Job Security, Work Life Balance, Skill Development / Learning",Salary & Benefits,166,11000,13,4,27
+Groww,Financial Services ,7,3.9,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,166,14000,24,82,14
+International Travel House,Hospitality ,43,4.2,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,166,738,2,6,23
+Thirumalai Chemicals,Chemicals ,51,4.0,"Skill Development / Learning, Job Security",Promotions / Appraisal,166,949,4,13,19
+APOLLO POWER SYSTEMS,Electrical Equipment ,39,4.1,"Work Life Balance, Skill Development / Learning",Promotions / Appraisal,165,614,8,2,14
+SEED Infotech,IT Services & Consulting ,30,3.6,"Work Life Balance, Job Security","Skill Development / Learning, Salary & Benefits, Promotions / Appraisal",165,626,7,6,11
+Bombay Stock Exchange,Financial Services ,149,4.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",165,14000,6,5,15
+Bombay Stock Exchange,Financial Services ,149,4.0,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",165,14000,6,5,15
+APOLLO POWER SYSTEMS,Electrical Equipment ,39,4.1,"Work Life Balance, Skill Development / Learning",Promotions / Appraisal,165,614,8,2,14
+Weatherford,Oil & Gas ,83,4.1,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,165,747,7,8,26
+Indus Valley Partners,IT Services & Consulting ,24,3.4,Job Security,"Work Satisfaction, Promotions / Appraisal, Skill Development / Learning",165,18000,24,16,48
+Ritu Kumar,Fashion & Textile ,55,3.9,Skill Development / Learning,Promotions / Appraisal,164,869,8,1,12
+Bekaert Industries,Electrical Equipment ,144,4.2,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,164,852,7,20,20
+6D Technologies,Telecom ,22,3.6,Job Security,"Work Life Balance, Work Satisfaction, Company Culture",164,19000,18,20,13
+Bharti Foundation,Non-Profit ,24,4.2,"Salary & Benefits, Company Culture, Work Life Balance",Promotions / Appraisal,163,484,7,1,24
+Patton International,Iron & Steel ,34,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",163,806,6,2,22
+Paradise Food Court,Hospitality ,71,4.0,Salary & Benefits,Promotions / Appraisal,163,817,9,27,29
+Xeam Ventures,Recruitment ,20,4.0,"Work Life Balance, Work Satisfaction","Job Security, Promotions / Appraisal",163,745,8,13,14
+TAL Manufacturing Solutions,Industrial Machinery ,24,3.9,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",162,782,2,4,22
+Metacube Software,IT Services & Consulting ,20,3.9,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,162,16000,13,2,25
+Galpha Laboratories,Pharma ,38,4.0,Work Life Balance,Promotions / Appraisal,162,676,5,2,22
+The Smart Cube,Management Consulting ,21,3.7,"Job Security, Company Culture, Work Life Balance","Salary & Benefits, Promotions / Appraisal, Work Satisfaction",161,18000,19,35,33
+KNR Constructions,Engineering & Construction ,29,4.1,"Job Security, Skill Development / Learning",Promotions / Appraisal,161,744,3,7,20
+Arkray Healthcare,Healthcare ,64,4.0,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits",161,734,4,28,22
+Dover India,Industrial Machinery ,21,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,161,17000,12,10,18
+Ananth Technologies,Electronics Manufacturing ,32,3.9,"Job Security, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",160,12000,9,2,23
+Integra Micro Systems,Software Product ,42,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",160,1000,6,1,10
+Smith & Nephew Healthcare,Medical Equipment ,168,3.9,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,159,13000,5,9,26
+Highbar Technocrat,IT Services & Consulting ,14,3.8,Skill Development / Learning,"Promotions / Appraisal, Work Life Balance",159,875,9,8,14
+Kanoria Chemicals & Industries,Chemicals ,64,4.0,Job Security,"Salary & Benefits, Promotions / Appraisal",159,808,7,1,32
+PIX Transmissions,Fashion & Textile ,43,4.0,"Salary & Benefits, Skill Development / Learning, Work Satisfaction",Job Security,158,820,6,2,25
+Mangalam Cement,Building Material ,48,4.1,"Job Security, Work Life Balance, Work Satisfaction",Promotions / Appraisal,158,721,9,12,20
+Sun Direct TV,Broadcasting ,17,4.3,"Job Security, Work Life Balance, Work Satisfaction","Promotions / Appraisal, Salary & Benefits",158,666,6,5,20
+HEUBACH Colour,Chemicals ,30,3.9,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,158,842,7,3,20
+EagleBurgmann,Industrial Machinery ,140,3.9,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",158,886,11,7,22
+Savista Global Solutions,Analytics & KPO ,3,4.0,"Company Culture, Work Life Balance",Promotions / Appraisal,158,658,14,15,15
+eMDs,IT Services & Consulting ,28,3.7,Job Security,"Promotions / Appraisal, Company Culture, Work Satisfaction",158,820,15,8,21
+Toshiba Software India,IT Services & Consulting ,22,3.7,Job Security,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",157,17000,12,4,24
+Ahana Systems & Solutions,IT Services & Consulting ,17,3.8,"Skill Development / Learning, Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",156,890,5,22,21
+Domino Printech,Printing & Publishing ,28,4.0,"Job Security, Salary & Benefits",Promotions / Appraisal,156,793,9,10,23
+Fujitec,Electronics Manufacturing ,14,3.8,Job Security,"Promotions / Appraisal, Work Satisfaction, Company Culture",156,935,4,6,14
+AABSyS IT,IT Services & Consulting ,26,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",156,762,3,3,22
+CIMS Hospital,Healthcare ,14,3.9,"Company Culture, Work Life Balance, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",155,569,5,3,16
+CIMS Hospital,Healthcare ,14,3.9,"Company Culture, Work Life Balance, Skill Development / Learning","Salary & Benefits, Promotions / Appraisal",155,569,5,3,16
+Maral Overseas,Fashion & Textile ,33,3.6,"Job Security, Skill Development / Learning",Promotions / Appraisal,154,792,3,15,16
+Quest Diagnostics,Clinical Research ,57,3.5,"Work Life Balance, Salary & Benefits","Job Security, Skill Development / Learning, Promotions / Appraisal",154,904,4,34,24
+GKB RX Lens,Medical Equipment ,65,4.3,"Job Security, Work Satisfaction, Company Culture",Promotions / Appraisal,154,584,4,1,20
+Futurense Technologies,IT Services & Consulting ,4,3.6,Skill Development / Learning,"Job Security, Promotions / Appraisal, Work Life Balance",154,498,20,5,33
+Garware Hi-Tech Films,Chemicals / Agri Inputs ,91,4.1,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",154,884,5,2,16
+Infineon Technologies,Semiconductors ,25,3.8,"Job Security, Work Life Balance",Promotions / Appraisal,154,16000,22,71,26
+SYNCHRONIZED SUPPLY SYSTEMS,Logistics ,17,4.0,"Company Culture, Salary & Benefits, Work Life Balance",Job Security,153,728,8,2,20
+Advantum Health,Healthcare ,28,3.8,Work Life Balance,Promotions / Appraisal,153,741,4,8,26
+CIGNEX,IT Services & Consulting ,24,3.9,"Salary & Benefits, Work Life Balance",Job Security,153,14000,6,52,22
+Indo Count Industries,Fashion & Textile ,36,4.1,"Job Security, Work Life Balance",Promotions / Appraisal,152,990,5,3,16
+Timex Group India,Metals & Mining ,170,4.0,"Work Life Balance, Company Culture",Promotions / Appraisal,152,842,3,3,25
+EGIS,Power ,54,4.3,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,152,618,5,1,17
+Tata Boeing Aerospace,Defence & Aerospace ,9,3.8,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Work Life Balance",152,11000,9,9,25
+TATA MEDICAL CENTER,Healthcare ,20,3.9,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,151,511,6,11,25
+Abellon Clean Energy,Other ,16,3.8,"Work Life Balance, Skill Development / Learning","Job Security, Salary & Benefits, Promotions / Appraisal",151,952,4,7,17
+Don Bosco Tech Society,Non-Profit ,18,4.2,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,151,358,7,7,26
+Videojet Technologies,Consumer Electronics & Appliances ,29,3.8,Salary & Benefits,"Promotions / Appraisal, Job Security, Work Satisfaction",151,701,5,9,24
+Cloudstrats Technologies,IT Services & Consulting ,10,3.6,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal, Work Life Balance",150,350,12,4,11
+D'Decor Home Fabrics,Fashion & Textile ,25,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Skill Development / Learning",150,12000,11,7,13
+Allergan,Healthcare ,11,3.9,"Company Culture, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,150,718,5,14,29
+Matix Fertilisers & Chemicals,Chemicals ,15,3.9,"Salary & Benefits, Work Life Balance",Promotions / Appraisal,149,789,15,5,15
+Dosti Realty,Real Estate ,44,4.0,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,148,815,10,5,18
+Dosti Realty,Real Estate ,44,4.0,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,148,815,10,5,18
+Pacific Cyber Technology,Electronics Manufacturing ,9,3.7,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal, Work Life Balance",148,811,3,10,12
+RAXA,Law Enforcement & Security ,19,4.2,"Job Security, Skill Development / Learning, Work Satisfaction",Promotions / Appraisal,148,413,3,1,24
+AT&S,Semiconductors ,37,4.1,"Company Culture, Work Life Balance",Promotions / Appraisal,148,11000,6,129,13
+Creamy foods,Food Processing ,33,3.8,Work Life Balance,"Job Security, Promotions / Appraisal",148,684,14,16,14
+COMSTAR AUTOMOTIVE TECHNOLOGIES,Auto Components ,25,3.6,"Skill Development / Learning, Job Security",Work Life Balance,147,1000,6,3,32
+IIT Delhi,Education & Training ,63,4.1,"Work Life Balance, Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits",147,921,11,3,17
+Orchid Pharma,Pharma ,32,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",147,818,4,4,19
+Red FM 93.5,Broadcasting ,22,4.0,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",147,765,4,3,17
+Navitas Life Sciences,Clinical Research ,23,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",147,12000,8,12,15
+Wellspring Healthcare,Healthcare ,14,3.7,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Company Culture",147,487,4,12,21
+Sugam Parivahan,Logistics ,37,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",147,601,11,11,13
+Jaslok Hospital and Research Centre,Healthcare ,51,4.2,"Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",146,700,7,1,18
+Sutlej Textiles and Industries,Fashion & Textile ,19,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",146,812,3,2,14
+MUFG Bank,Financial Services ,105,3.7,Work Life Balance,"Promotions / Appraisal, Job Security",146,13000,6,13,9
+Praxis home Retail,Retail ,17,4.1,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,146,766,2,3,22
+Vnr Seeds,Agriculture ,20,3.9,"Skill Development / Learning, Company Culture, Job Security","Salary & Benefits, Promotions / Appraisal",146,577,10,7,13
+Izmo,IT Services & Consulting ,29,3.7,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",145,736,3,12,17
+Marquardt,Auto Components ,28,4.0,"Work Life Balance, Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits",145,11000,10,18,25
+Janatics India,Auto Components ,47,4.1,"Work Life Balance, Job Security, Work Satisfaction",Promotions / Appraisal,145,995,9,9,18
+Renewsys India,Power ,13,4.2,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,144,988,5,11,20
+Renewsys India,Power ,13,4.2,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,144,988,5,11,20
+Crest Data Systems,IT Services & Consulting ,11,3.5,Salary & Benefits,"Work Satisfaction, Skill Development / Learning, Job Security",144,12000,16,19,11
+Revolut,Internet ,9,2.9,Salary & Benefits,"Job Security, Promotions / Appraisal, Work Satisfaction",144,1000,22,6,5
+Bilt Graphic Paper Products,Pulp & Paper ,17,3.8,Job Security,Promotions / Appraisal,144,694,7,40,15
+Network Techlab,Hardware & Networking ,28,4.0,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits",143,816,6,33,8
+La Renon Healthcare,Pharma ,17,4.2,"Salary & Benefits, Job Security, Work Life Balance",Skill Development / Learning,143,555,7,2,18
+Greytip Software,Software Product ,30,3.8,"Skill Development / Learning, Work Life Balance",Promotions / Appraisal,143,932,11,23,17
+Tangoe,IT Services & Consulting ,24,3.9,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",142,14000,5,1,26
+Biesse Manufacturing,Architecture & Interior Design ,55,4.1,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,142,910,14,7,18
+Droom,Internet ,10,3.7,Work Life Balance,Job Security,141,13000,15,42,35
+NMIMS,Education & Training ,43,3.9,Work Life Balance,Promotions / Appraisal,141,981,15,12,13
+Viacom18 Media,Media & Entertainment ,17,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",141,13000,10,48,22
+Nippon Konpo,Logistics ,13,4.0,"Job Security, Work Life Balance",Promotions / Appraisal,141,517,4,3,11
+Teletext Holidays,Travel & Tourism ,32,3.9,"Work Life Balance, Company Culture, Skill Development / Learning","Job Security, Promotions / Appraisal",141,12000,5,7,27
+Sri Ramachandra University,Healthcare ,39,4.1,"Skill Development / Learning, Job Security, Work Satisfaction",Salary & Benefits,141,633,3,40,16
+Beumer Group,Industrial Machinery ,89,4.0,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,141,805,10,5,14
+Embio Limited mahad Raigad,Pharma ,38,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",140,836,2,2,14
+J.M Baxi & Co,Ports & Shipping ,108,4.1,"Job Security, Work Life Balance",Promotions / Appraisal,140,866,7,6,27
+InMobi,Marketing & Advertising ,17,3.8,Work Life Balance,"Promotions / Appraisal, Job Security",139,16000,18,13,21
+Carwale,Internet ,19,3.6,Job Security,"Salary & Benefits, Promotions / Appraisal",139,1000,29,82,24
+Coverfox,Insurance ,11,3.7,Company Culture,Job Security,139,900,1,16,16
+Virtuoso,Industrial Automation ,8,3.9,"Job Security, Skill Development / Learning, Company Culture","Salary & Benefits, Promotions / Appraisal",139,673,12,15,2
+Relyon Softech,Software Product ,23,4.1,"Job Security, Work Life Balance","Salary & Benefits, Promotions / Appraisal, Work Satisfaction",138,902,7,14,21
+Asianet Satellite Communications,Internet ,31,3.9,Work Life Balance,Promotions / Appraisal,137,504,3,3,9
+Kumar Organic Products,Chemicals ,33,3.8,Job Security,"Company Culture, Salary & Benefits",137,798,8,4,13
+VISTRA INTERNATIONAL EXPANSION,Other ,32,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",137,821,8,3,21
+RateGain,IT Services & Consulting ,20,4.0,"Company Culture, Work Life Balance",Promotions / Appraisal,137,12000,11,85,18
+CDM Smith,Engineering & Construction ,77,4.0,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,137,626,5,3,14
+Adfactors PR,Marketing & Advertising ,27,3.6,"Job Security, Skill Development / Learning","Promotions / Appraisal, Work Satisfaction, Salary & Benefits",137,13000,13,26,19
+Givaudan,Beauty & Personal Care ,129,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,137,862,3,9,33
+Tatvasoft,IT Services & Consulting ,23,3.8,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",136,11000,21,8,18
+House Of Diagnostics,Healthcare ,16,4.1,"Work Satisfaction, Skill Development / Learning, Job Security",Promotions / Appraisal,136,530,3,2,26
+Apex Hospital,Healthcare ,30,3.9,Skill Development / Learning,Promotions / Appraisal,136,746,6,5,16
+Sulphur Mills,Agro Chemicals ,64,4.0,"Skill Development / Learning, Job Security",Salary & Benefits,136,820,7,2,23
+Maharishi Markandeshwar University,Education & Training ,31,3.9,"Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",135,477,5,3,10
+Suven Life Sciences,Pharma ,35,3.8,Skill Development / Learning,Company Culture,135,703,3,1,18
+Eros Group,Real Estate ,57,4.2,"Work Life Balance, Work Satisfaction, Company Culture",Promotions / Appraisal,135,721,10,9,19
+MTAR Technologies,Defence & Aerospace ,54,4.3,"Work Life Balance, Work Satisfaction, Skill Development / Learning",Promotions / Appraisal,134,797,11,1,7
+Malayala Manorama,Printing & Publishing ,136,3.9,"Company Culture, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",134,891,4,27,14
+Neverskip,Education & Training ,16,4.0,"Skill Development / Learning, Company Culture, Work Satisfaction","Promotions / Appraisal, Salary & Benefits",134,407,6,2,14
+Axalta Coating Systems,Chemicals ,11,4.3,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,134,732,7,11,29
+Visible Alpha Solutions,Analytics & KPO ,10,3.7,"Work Life Balance, Company Culture","Skill Development / Learning, Work Satisfaction, Promotions / Appraisal",133,12000,16,9,28
+Rossari Biotech,Chemicals ,27,4.0,"Salary & Benefits, Company Culture",Promotions / Appraisal,133,851,6,3,18
+Visible Alpha Solutions,Analytics & KPO ,10,3.7,"Work Life Balance, Company Culture","Skill Development / Learning, Work Satisfaction, Promotions / Appraisal",133,12000,16,9,28
+ExcelSoft Technologies,IT Services & Consulting ,24,3.6,Job Security,"Salary & Benefits, Promotions / Appraisal, Work Life Balance",133,13000,10,11,10
+NSK,Industrial Machinery ,108,3.9,"Work Life Balance, Salary & Benefits, Company Culture",Promotions / Appraisal,133,25000,6,4,25
+NSK,Industrial Machinery ,108,3.9,"Work Life Balance, Salary & Benefits, Company Culture",Promotions / Appraisal,133,25000,6,4,25
+Epicor Software Corporation,IT Services & Consulting ,52,3.7,"Work Life Balance, Job Security","Skill Development / Learning, Promotions / Appraisal, Work Satisfaction",133,15000,11,19,25
+Intuit,IT Services & Consulting ,19,3.8,"Salary & Benefits, Work Life Balance, Company Culture","Work Satisfaction, Promotions / Appraisal",133,21000,43,52,16
+Ramraj Cotton,Fashion & Textile ,41,3.9,"Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",132,749,14,3,9
+Durian Industries,Retail ,39,3.8,Job Security,Promotions / Appraisal,132,688,11,12,10
+TEOCO Software,Software Product ,30,3.7,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits",132,902,8,6,25
+BillDesk,FinTech ,24,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",132,1000,3,14,13
+Netcore Cloud Private Limited,IT Services & Consulting ,26,3.7,"Job Security, Company Culture","Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",132,12000,14,31,15
+Shankaranarayana Constructions,Engineering & Construction ,18,4.1,Salary & Benefits,Work Life Balance,132,628,12,5,17
+Cosmos Impex,Industrial Machinery ,37,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,131,734,7,9,17
+KreditBee,Internet ,6,3.6,Salary & Benefits,"Promotions / Appraisal, Job Security, Work Satisfaction",131,1000,12,46,10
+Armstrong International,Financial Services ,124,4.0,"Company Culture, Skill Development / Learning, Job Security",Promotions / Appraisal,131,648,6,3,16
+Prgx India,Accounting & Auditing ,14,3.7,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",131,11000,12,20,22
+Kesari Tours,Travel & Tourism ,40,3.8,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal",131,846,4,5,21
+Taal Tech India,IT Services & Consulting ,12,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",130,12000,12,23,17
+InnoEye Technologies,IT Services & Consulting ,12,3.6,"Skill Development / Learning, Job Security","Work Life Balance, Company Culture, Work Satisfaction",129,883,3,4,11
+Inditex,Fashion & Textile ,61,3.8,"Skill Development / Learning, Job Security",Promotions / Appraisal,129,487,3,4,29
+Inditex,Fashion & Textile ,61,3.8,"Skill Development / Learning, Job Security",Promotions / Appraisal,129,487,3,4,29
+Emami Frank Ross,Retail ,118,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",129,640,4,6,8
+CTR Manufacturing Industries,Electronics Manufacturing ,60,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",129,808,7,13,10
+Niit Foundation,Education & Training ,20,4.1,"Company Culture, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",129,530,6,1,22
+Niit Foundation,Education & Training ,20,4.1,"Company Culture, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",129,530,6,1,22
+CTR Manufacturing Industries,Electronics Manufacturing ,60,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",129,808,7,13,10
+Emami Frank Ross,Retail ,118,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",129,640,4,6,8
+WM Logistics,Logistics ,13,3.7,"Job Security, Work Life Balance","Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",129,650,10,22,17
+DMI,IT Services & Consulting ,22,3.9,Work Life Balance,"Job Security, Promotions / Appraisal",128,12000,14,12,7
+Winjit Technologies,IT Services & Consulting ,20,4.0,"Job Security, Company Culture",Salary & Benefits,128,13000,20,49,13
+Ksk Energy Ventures,Oil & Gas ,23,4.3,"Work Life Balance, Skill Development / Learning",Promotions / Appraisal,128,521,3,1,18
+Axa Parenterals,Pharma ,19,4.0,"Job Security, Work Satisfaction, Skill Development / Learning",Promotions / Appraisal,128,646,10,2,17
+Redington Gulf,IT Services & Consulting ,25,3.7,"Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits",128,881,8,6,16
+Caliber Technologies,IT Services & Consulting ,23,3.8,Job Security,"Salary & Benefits, Promotions / Appraisal",127,13000,7,3,14
+Maya Academy of Advanced Cinematics,Animation & VFX ,23,3.7,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits, Job Security",127,513,13,3,7
+SHARON BIO MEDICINE,Pharma ,35,4.2,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",127,613,3,7,12
+Automation Anywhere,Industrial Automation ,21,3.8,Salary & Benefits,"Job Security, Company Culture, Skill Development / Learning",127,17000,10,14,20
+Thejo Engineering,Engineering & Construction ,50,3.9,Job Security,Promotions / Appraisal,126,710,12,3,17
+ASSA ABLOY,Real Estate ,19,3.8,Work Life Balance,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",126,686,8,1,13
+Eduvanz,FinTech ,8,3.7,Company Culture,"Promotions / Appraisal, Job Security",126,672,6,28,11
+Prothious Engineering Services,Design ,19,3.3,Job Security,"Work Life Balance, Company Culture, Promotions / Appraisal",126,415,4,2,21
+The Hindu Group,Printing & Publishing ,146,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,126,925,7,11,15
+Lulu Hypermarket,Retail ,24,3.9,"Job Security, Skill Development / Learning",Promotions / Appraisal,126,469,11,10,16
+Prudent Corporate Advisory Services,Investment Banking / Venture Capital / Private Equity ,24,4.1,"Job Security, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",126,539,4,13,10
+J Pan Tubular Components,Industrial Machinery ,17,4.0,Skill Development / Learning,"Promotions / Appraisal, Job Security",125,502,6,7,12
+Bewakoof,Fashion & Textile ,13,3.9,"Work Life Balance, Skill Development / Learning, Work Satisfaction","Promotions / Appraisal, Job Security",125,824,7,41,23
+Bewakoof,Fashion & Textile ,13,3.9,"Work Life Balance, Skill Development / Learning, Work Satisfaction","Promotions / Appraisal, Job Security",125,824,7,41,23
+SITA,IT Services & Consulting ,75,4.0,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,125,936,7,13,24
+Steril Gene Life Sciences,Pharma ,17,3.9,"Job Security, Skill Development / Learning, Work Life Balance","Salary & Benefits, Promotions / Appraisal",124,730,3,1,14
+Steril Gene Life Sciences,Pharma ,17,3.9,"Job Security, Skill Development / Learning, Work Life Balance","Salary & Benefits, Promotions / Appraisal",124,730,3,1,14
+Bry-Air (Asia),Industrial Machinery ,43,4.0,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits",124,694,5,6,15
+Venus Home Appliances,Consumer Electronics & Appliances ,60,4.2,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,124,523,7,20,11
+Gunnebo,Defence & Aerospace ,92,3.9,"Job Security, Work Life Balance",Promotions / Appraisal,123,744,4,1,16
+Oswal Group,Fashion & Textile ,21,3.7,Skill Development / Learning,"Job Security, Promotions / Appraisal",123,559,6,2,3
+Jotun Paints,Petrochemicals ,98,4.0,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,123,571,5,6,22
+Aranca,Analytics & KPO ,21,3.6,Company Culture,"Promotions / Appraisal, Salary & Benefits",123,11000,3,99,23
+Rexel,Industrial Automation ,10,3.9,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,123,774,4,2,18
+Oswal Group,Fashion & Textile ,21,3.7,Skill Development / Learning,"Job Security, Promotions / Appraisal",123,559,6,2,3
+Paranjape Schemes Construction,Real Estate ,94,3.9,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",123,796,7,1,19
+Amrita Vishwa Vidyapeetham,Education & Training ,30,3.9,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,123,810,4,30,15
+John Crane Sealing Systems India,Industrial Machinery ,12,3.8,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",123,852,12,7,18
+Frost & Sullivan,Management Consulting ,63,3.6,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",122,11000,10,10,11
+Annet Technologies,Software Product ,26,4.0,"Job Security, Work Life Balance, Company Culture",Salary & Benefits,122,827,6,1,14
+Barco Electronic Systems,Consumer Electronics & Appliances ,90,4.3,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,122,931,6,2,12
+ValueFirst Digital Media,Software Product ,21,3.8,"Company Culture, Work Life Balance","Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",122,984,7,10,22
+TransPerfect,Hardware & Networking ,32,4.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",121,880,10,9,10
+Rishabh Instruments,Electronics Manufacturing ,39,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",121,700,5,2,15
+Sun Mobility,Auto Components ,7,4.0,"Job Security, Work Life Balance",Promotions / Appraisal,121,885,10,11,20
+Weir Minerals,Metals & Mining ,153,4.0,"Job Security, Company Culture, Work Life Balance","Promotions / Appraisal, Salary & Benefits",121,738,7,16,18
+SEG Automotive,Auto Components ,6,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",120,950,7,4,17
+Indian School of Business,Analytics & KPO ,9,3.9,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",120,803,4,10,14
+SEG Automotive,Auto Components ,6,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",120,950,7,4,17
+Krystal Integrated Services,Facility Management Services ,24,3.9,"Work Life Balance, Job Security",Promotions / Appraisal,120,623,3,30,10
+Expeditors International,Logistics ,45,3.9,Job Security,Promotions / Appraisal,120,992,5,12,10
+Agilysys Technologies India,IT Services & Consulting ,61,3.6,"Salary & Benefits, Job Security","Work Life Balance, Work Satisfaction, Company Culture",120,16000,18,18,20
+ZestMoney,FinTech ,9,4.0,"Work Life Balance, Company Culture","Job Security, Promotions / Appraisal",119,799,10,5,17
+Ojas Innovative Technologies,IT Services & Consulting ,13,3.7,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal, Job Security",119,13000,7,1,11
+Brickwork Ratings,Financial Services ,17,3.7,Work Life Balance,Promotions / Appraisal,119,695,7,1,5
+ZestMoney,FinTech ,9,4.0,"Work Life Balance, Company Culture","Job Security, Promotions / Appraisal",119,799,10,5,17
+Amagi Media Labs,Software Product ,16,3.7,Salary & Benefits,"Promotions / Appraisal, Work Life Balance, Job Security",119,876,6,35,14
+Tata Realty and Infrastructure,Real Estate ,17,4.1,"Company Culture, Work Life Balance",Promotions / Appraisal,119,915,5,4,10
+Auto Ignition,Auto Components ,53,3.8,Work Life Balance,"Salary & Benefits, Promotions / Appraisal",118,572,4,3,19
+Digital Nirvana Information Systems,Software Product ,28,3.6,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",118,735,1,2,15
+Soch Apparels,Fashion & Textile ,19,4.2,"Skill Development / Learning, Work Satisfaction, Company Culture",Promotions / Appraisal,118,630,4,1,18
+Million Minds Management Services,Recruitment ,12,3.9,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits",118,452,4,13,11
+Imerys,Metals & Mining ,144,4.1,"Skill Development / Learning, Company Culture, Work Life Balance",Promotions / Appraisal,118,694,8,7,20
+Aeon Credit Service,Financial Services ,13,3.7,"Company Culture, Salary & Benefits, Work Life Balance",Job Security,118,553,4,20,8
+BT Global Services,IT Services & Consulting ,24,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,118,82000,55,64,259
+Centillion Networks,Telecom ,17,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",117,814,6,2,5
+Albert David,Pharma ,86,4.2,"Work Life Balance, Job Security","Promotions / Appraisal, Skill Development / Learning",117,462,6,4,6
+Vogo Automotive,Internet ,8,3.9,"Skill Development / Learning, Salary & Benefits, Work Life Balance","Job Security, Promotions / Appraisal",117,732,4,1,14
+SAGE Publications,Media & Entertainment ,59,4.0,"Work Life Balance, Company Culture",Promotions / Appraisal,117,655,6,9,25
+Bajaj Steel Industries,Industrial Machinery ,63,3.8,Skill Development / Learning,"Salary & Benefits, Company Culture, Promotions / Appraisal",117,921,5,1,11
+Dr. Willmar Schwabe India,Healthcare ,158,4.2,Work Life Balance,"Promotions / Appraisal, Job Security",117,361,1,2,15
+Infiniminds,IT Services & Consulting ,10,3.9,Work Life Balance,Promotions / Appraisal,117,745,11,2,7
+Alstrong Enterprises,Building Material ,23,4.3,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,117,520,5,1,16
+Glatt Systems,Pharma ,70,3.8,Skill Development / Learning,"Promotions / Appraisal, Work Life Balance",116,810,5,2,19
+MQSYS Technologies,IT Services & Consulting ,12,3.9,Work Life Balance,"Promotions / Appraisal, Job Security",116,18000,5,18,11
+Mandovi Motors,Auto Components ,40,4.4,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,116,505,4,2,14
+Nv Group,Beverage ,30,4.0,Work Life Balance,Promotions / Appraisal,116,613,4,2,11
+Motilal Oswal,Financial Services ,37,3.7,Skill Development / Learning,Promotions / Appraisal,116,12000,8,64,27
+Mandovi Motors,Auto Components ,40,4.4,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,116,505,4,2,14
+Nv Group,Beverage ,30,4.0,Work Life Balance,Promotions / Appraisal,116,613,4,2,11
+Motilal Oswal,Financial Services ,37,3.7,Skill Development / Learning,Promotions / Appraisal,116,12000,8,64,27
+NCL BUILDTEK,Building Material ,35,4.1,"Work Life Balance, Work Satisfaction, Job Security",Promotions / Appraisal,116,554,8,29,13
+Atotech,Chemicals ,31,3.7,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",116,701,7,7,25
+Atotech,Chemicals ,31,3.7,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits, Work Satisfaction",116,701,7,7,25
+Baskin Robbins,Food Processing ,79,4.1,"Company Culture, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,115,401,2,3,15
+Ace Creative Learning,Design ,26,3.9,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,115,499,4,7,13
+Tata Trusts,Non-Profit ,132,4.2,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,115,803,7,47,12
+IFortis Worldwide,IT Services & Consulting ,3,3.6,Work Life Balance,"Salary & Benefits, Job Security, Promotions / Appraisal",115,75,21,1,13
+DGS Technical Services,Design ,20,3.3,Job Security,"Salary & Benefits, Promotions / Appraisal, Company Culture",114,732,1,16,12
+Sakshi,Printing & Publishing ,16,4.0,"Job Security, Work Life Balance, Work Satisfaction","Promotions / Appraisal, Salary & Benefits",114,662,3,9,8
+DGS Technical Services,Design ,20,3.3,Job Security,"Salary & Benefits, Promotions / Appraisal, Company Culture",114,732,1,16,12
+India Pesticides,Agro Chemicals ,40,4.0,"Job Security, Work Satisfaction, Skill Development / Learning",Promotions / Appraisal,114,658,12,2,6
+Hirschvogel Components,Auto Components ,86,4.2,"Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits",114,668,4,2,19
+Enercon,Power ,40,4.1,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,113,443,7,1,15
+BAIF Development Research Foundation,Non-Profit ,57,3.7,"Job Security, Work Life Balance","Salary & Benefits, Promotions / Appraisal",113,357,6,1,15
+Genus Electrotech,Semiconductors ,25,3.6,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal",113,505,2,1,13
+Toluna,Analytics & KPO ,24,3.6,"Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",113,738,10,2,21
+Metal Power Analytical,Electronics Manufacturing ,37,3.8,Salary & Benefits,Job Security,113,575,13,8,22
+Sundaram Industries,Auto Components ,81,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",113,689,3,1,11
+Enercon,Power ,40,4.1,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,113,443,7,1,15
+Cheers Interactive,Management Consulting ,24,3.7,Skill Development / Learning,"Promotions / Appraisal, Company Culture, Work Satisfaction",113,590,8,19,12
+Aptonline,IT Services & Consulting ,22,4.1,"Job Security, Work Life Balance","Salary & Benefits, Promotions / Appraisal",113,941,4,1,18
+Cex Webuy Entertainment,Retail ,32,3.7,Company Culture,"Promotions / Appraisal, Salary & Benefits",113,969,11,19,25
+Clarion Technologies,IT Services & Consulting ,24,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,113,13000,11,22,11
+Packt Publishing,Printing & Publishing ,20,4.0,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal,112,880,10,7,25
+AB Mauri India,FMCG ,64,4.0,"Job Security, Work Life Balance, Salary & Benefits",Promotions / Appraisal,112,582,3,3,9
+Gracenote,Media & Entertainment ,26,3.6,"Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits, Job Security",112,583,5,10,13
+NewAge Software & Solutions,IT Services & Consulting ,18,3.5,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",112,11000,1,30,15
+Nelco,Telecom ,84,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits",112,523,4,1,14
+Clean Science And Technology,Chemicals ,18,3.5,Job Security,"Salary & Benefits, Promotions / Appraisal, Work Satisfaction",112,766,4,6,11
+BasketHunt,Software Product ,4,4.4,"Company Culture, Skill Development / Learning, Work Life Balance",Salary & Benefits,112,23,8,1,1
+RSM US,Accounting & Auditing ,60,3.8,"Job Security, Salary & Benefits",Promotions / Appraisal,112,1000,16,26,11
+Stemmons Business Services,BPO ,13,3.7,"Company Culture, Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",111,690,9,15,23
+Integrated Enterprises,Financial Services ,50,4.0,"Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits",111,486,7,6,8
+SRM Institute of Science and Technology,Education & Training ,39,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",111,872,12,25,10
+RS Software,IT Services & Consulting ,33,3.9,Skill Development / Learning,"Job Security, Work Life Balance, Promotions / Appraisal",111,643,5,1,18
+SRM Institute of Science and Technology,Education & Training ,39,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits",111,872,12,25,10
+WinWire Technologies,IT Services & Consulting ,18,3.9,Work Life Balance,"Job Security, Promotions / Appraisal",111,11000,11,38,20
+Dyson,Consumer Electronics & Appliances ,31,3.7,Salary & Benefits,"Promotions / Appraisal, Job Security, Work Satisfaction",111,592,11,16,13
+Gupshup,Software Product ,20,3.7,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction, Job Security",110,11000,16,37,7
+Expedien eSolutions,IT Services & Consulting ,21,3.8,Job Security,Promotions / Appraisal,110,749,6,10,24
+Rich Graviss Products,FMCG ,30,3.9,"Company Culture, Work Satisfaction, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",110,583,10,1,21
+Ardex Endura,Building Material ,75,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,110,428,3,1,13
+Yanfeng Automotive Interiors,Auto Components ,9,4.0,"Company Culture, Work Satisfaction, Skill Development / Learning",Promotions / Appraisal,110,563,7,4,15
+Graphic Era University,Education & Training ,31,3.6,Work Life Balance,Promotions / Appraisal,110,485,9,11,15
+"MIDLAND CREDIT MANAGEMENT, INC.",IT Services & Consulting ,71,3.9,"Company Culture, Job Security",Promotions / Appraisal,110,533,4,16,31
+Century Rayon,Fashion & Textile ,72,4.0,Job Security,"Promotions / Appraisal, Salary & Benefits",110,519,3,1,23
+ALL TIME PLASTICS,Petrochemicals ,60,3.6,Salary & Benefits,"Work Satisfaction, Job Security, Promotions / Appraisal",110,643,3,4,12
+Agastya International Foundation,Non-Profit ,25,4.0,"Work Life Balance, Work Satisfaction, Company Culture",Promotions / Appraisal,110,331,2,2,32
+Agastya International Foundation,Non-Profit ,25,4.0,"Work Life Balance, Work Satisfaction, Company Culture",Promotions / Appraisal,110,331,2,2,32
+Pagarbook,Software Product ,5,4.0,Salary & Benefits,Job Security,110,494,8,12,11
+ABP Network,Broadcasting ,21,4.0,"Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",110,840,2,9,14
+Kumaran Systems,IT Services & Consulting ,34,3.9,Salary & Benefits,Job Security,110,12000,11,27,8
+Urjanet Energy Solutions,IT Services & Consulting ,14,3.9,Company Culture,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",110,851,4,15,17
+Urjanet Energy Solutions,IT Services & Consulting ,14,3.9,Company Culture,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",110,851,4,15,17
+Newtronic Lifecare Equipment,Pharma ,48,3.9,"Work Life Balance, Job Security",Promotions / Appraisal,109,479,6,1,13
+Acuvate Software,Software Product ,18,3.6,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits",109,918,7,13,16
+Excel Industries,Agro Chemicals ,83,4.2,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,108,839,8,2,14
+GTN Engineering,Metals & Mining ,34,4.1,"Job Security, Work Life Balance",Promotions / Appraisal,108,624,4,4,12
+eSense Learning,EdTech ,16,3.9,Company Culture,"Promotions / Appraisal, Salary & Benefits",108,404,4,2,16
+Gramophone,Agriculture ,8,4.1,"Work Life Balance, Salary & Benefits, Company Culture",Job Security,108,440,6,32,12
+GP Strategies,Education & Training ,58,3.9,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,108,1000,4,19,11
+Moving Picture Company,Media & Entertainment ,54,4.1,"Skill Development / Learning, Company Culture, Work Satisfaction","Job Security, Promotions / Appraisal",108,465,1,9,8
+Mangal Industries,Auto Components ,34,4.0,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,108,583,4,8,12
+Marwadi Shares & Finance,Financial Services ,32,4.3,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,108,602,3,2,7
+Gramophone,Agriculture ,8,4.1,"Work Life Balance, Salary & Benefits, Company Culture",Job Security,108,440,6,32,12
+Hughes Communications,Telecom ,31,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",107,875,8,3,15
+Axis Clinicals,Clinical Research ,20,3.9,"Job Security, Work Life Balance","Promotions / Appraisal, Company Culture",107,599,5,2,9
+Carryfast group,Logistics ,48,3.8,"Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits",107,420,6,1,5
+DesiCrew Solutions,Financial Services ,17,3.5,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits",107,440,5,2,7
+Games24x7,Gaming ,18,4.0,"Salary & Benefits, Company Culture, Skill Development / Learning",Promotions / Appraisal,107,11000,8,32,15
+J. M. Mhatre Infra,Engineering & Construction ,39,4.4,"Job Security, Work Life Balance, Skill Development / Learning",Salary & Benefits,107,513,1,2,16
+YuppTV,Broadcasting ,18,3.9,"Job Security, Work Life Balance",Promotions / Appraisal,107,960,6,1,15
+Raheja Universal,Real Estate ,44,3.7,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,107,583,6,10,10
+Dr Shroff Charity Eye Hospital,Healthcare ,110,4.2,"Skill Development / Learning, Work Satisfaction, Company Culture","Promotions / Appraisal, Salary & Benefits",107,336,4,4,15
+Carryfast group,Logistics ,48,3.8,"Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits",107,420,6,1,5
+Bounce,Automobile ,10,4.0,"Work Life Balance, Company Culture",Job Security,107,989,6,11,13
+FloBiz,IT Services & Consulting ,5,3.4,Salary & Benefits,"Job Security, Promotions / Appraisal, Work Satisfaction",107,533,15,37,13
+Eversana,Pharma ,15,3.9,"Work Life Balance, Company Culture",Promotions / Appraisal,107,916,15,12,20
+Urbanpro,EdTech ,13,3.7,Work Life Balance,"Promotions / Appraisal, Job Security",106,489,10,1,10
+Data Marshall,Analytics & KPO ,22,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",106,649,3,4,9
+Voith,Industrial Machinery ,157,4.0,Salary & Benefits,Promotions / Appraisal,106,716,4,1,18
+UTI Mutual Fund,Financial Services ,61,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,106,676,7,1,11
+Mantra Softech,IT Services & Consulting ,18,4.0,"Company Culture, Work Life Balance",Salary & Benefits,106,820,8,10,10
+Flovel Energy,Power ,53,4.0,"Job Security, Work Satisfaction, Company Culture",Promotions / Appraisal,106,597,9,3,18
+Data Patterns,Defence & Aerospace ,39,3.9,"Job Security, Skill Development / Learning, Work Satisfaction","Company Culture, Work Life Balance",106,958,23,106,13
+Board Infinity,Education & Training ,7,3.7,Skill Development / Learning,"Job Security, Work Life Balance",106,382,8,25,37
+Micromatic Grinding Technologies,Industrial Machinery ,51,4.0,"Company Culture, Skill Development / Learning",Promotions / Appraisal,105,580,5,3,21
+Sterling Software Private Limited,Software Product ,28,3.9,Job Security,"Promotions / Appraisal, Company Culture, Salary & Benefits",105,12000,5,4,9
+Wise Finserv,Investment Banking / Venture Capital / Private Equity ,11,4.0,"Skill Development / Learning, Company Culture, Work Life Balance",Salary & Benefits,105,136,5,2,9
+Modi Builders & Realtors,Engineering & Construction ,44,3.5,Salary & Benefits,Job Security,105,394,5,5,10
+Wellknown Polyesters,Fashion & Textile ,28,4.1,"Skill Development / Learning, Job Security",Promotions / Appraisal,105,676,6,9,3
+Sundyota Numandis Pharmaceuticals,Pharma ,21,4.0,"Skill Development / Learning, Company Culture, Work Satisfaction",Salary & Benefits,105,372,5,7,22
+Bondada Engineering,Engineering & Construction ,12,4.0,"Company Culture, Work Life Balance",Promotions / Appraisal,105,437,8,2,9
+Wise Finserv,Investment Banking / Venture Capital / Private Equity ,11,4.0,"Skill Development / Learning, Company Culture, Work Life Balance",Salary & Benefits,105,136,5,2,9
+Hippo Stores,Retail ,4,3.8,Salary & Benefits,Job Security,105,344,4,1,3
+NCDEX,Financial Services ,21,4.0,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,105,871,6,14,15
+Rave Technologies,IT Services & Consulting ,37,3.7,Work Life Balance,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",105,11000,3,2,20
+Ogilvy,Marketing & Advertising ,76,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Life Balance",104,11000,4,5,15
+Zacks Research,Financial Services ,46,3.1,"Job Security, Work Life Balance","Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",104,446,3,1,14
+Centillion Solutions and Services,IT Services & Consulting ,18,3.9,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",104,452,2,6,6
+Vitech Systems Asia,IT Services & Consulting ,21,3.7,Job Security,"Skill Development / Learning, Work Satisfaction",104,12000,5,1,9
+The Calcutta Medical Research Institute,Healthcare ,55,3.9,"Skill Development / Learning, Job Security",Promotions / Appraisal,104,369,3,1,11
+DIC India,Chemicals ,77,4.1,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,103,627,5,2,12
+P C CHANDRA JEWELLERS,Jewellery ,85,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,103,437,5,1,13
+Robinhood Insurance Broker,Insurance ,16,3.6,Skill Development / Learning,Work Satisfaction,103,515,3,13,17
+Robinhood Insurance Broker,Insurance ,16,3.6,Skill Development / Learning,Work Satisfaction,103,515,3,13,17
+Sidel,Industrial Machinery ,59,3.5,"Work Life Balance, Job Security","Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",103,544,5,11,17
+Iscon Balaji Foods,Food Processing ,12,4.2,"Job Security, Work Life Balance",Promotions / Appraisal,103,550,5,26,8
+Modern Insulators,Electrical Equipment ,39,4.0,"Job Security, Work Life Balance","Promotions / Appraisal, Skill Development / Learning",102,486,2,2,12
+Parsvnath Developers,Real Estate ,34,3.3,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",102,452,3,2,6
+Purnartha Investment Advisors,Investment Banking / Venture Capital / Private Equity ,15,3.5,Work Life Balance,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",102,782,5,26,9
+OSI Digital,IT Services & Consulting ,31,4.0,Skill Development / Learning,Promotions / Appraisal,102,16000,6,10,10
+Maneesh Pharmaceuticals,Pharma ,49,3.9,"Job Security, Work Life Balance","Salary & Benefits, Promotions / Appraisal",102,559,5,9,13
+Transact Global,BPO ,16,4.0,"Skill Development / Learning, Work Satisfaction, Company Culture",Promotions / Appraisal,102,392,8,12,12
+Systech Solutions,IT Services & Consulting ,31,3.7,Skill Development / Learning,"Company Culture, Promotions / Appraisal, Salary & Benefits",101,12000,9,6,18
+RPG Group,Engineering & Construction ,204,4.1,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",101,871,6,4,9
+ARK Infosolutions,IT Services & Consulting ,12,4.0,"Company Culture, Work Life Balance",Promotions / Appraisal,101,607,3,2,16
+Bridgei2i Analytics Solutions,IT Services & Consulting ,13,3.8,"Skill Development / Learning, Company Culture, Job Security",Salary & Benefits,101,12000,8,6,24
+IXAR,Oil & Gas ,55,3.6,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits, Company Culture",101,295,4,4,16
+Akshara Enterprises,IT Services & Consulting ,16,3.9,Work Life Balance,"Salary & Benefits, Promotions / Appraisal, Company Culture",100,718,5,2,3
+DRN Infrastructure,Power ,41,4.0,Job Security,"Salary & Benefits, Promotions / Appraisal",100,467,4,1,16
+Pentagon System and Services,IT Services & Consulting ,30,4.2,"Job Security, Work Life Balance",Promotions / Appraisal,100,693,3,10,9
+A.t.e. Enterprises,Industrial Machinery ,85,3.9,Company Culture,Promotions / Appraisal,100,663,6,1,12
+GeeksForGeeks,Education & Training ,15,3.9,"Work Life Balance, Skill Development / Learning, Company Culture",Promotions / Appraisal,100,580,18,32,11
+ATS Services,Analytics & KPO ,24,3.8,"Salary & Benefits, Job Security, Work Life Balance",Promotions / Appraisal,100,476,8,6,10
+Ellucian Higher Education Systems,IT Services & Consulting ,13,4.1,"Company Culture, Work Life Balance",Promotions / Appraisal,99,13000,13,1,25
+IRIS Business Services,IT Services & Consulting ,24,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits",99,18000,4,68,16
+TELUS Health,Recruitment ,58,4.0,"Job Security, Work Life Balance, Company Culture","Salary & Benefits, Promotions / Appraisal",99,658,15,4,15
+Reliance Broadcast Network,Broadcasting ,19,4.2,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,98,701,1,4,6
+TRACKS AND TOWERS INFRATECH,Engineering & Construction ,41,4.2,Salary & Benefits,Promotions / Appraisal,98,505,5,3,13
+Adani Realty,Real Estate ,13,3.8,"Job Security, Salary & Benefits, Company Culture",Promotions / Appraisal,98,746,8,3,13
+Shinhan Bank,Banking ,42,3.6,Work Life Balance,"Skill Development / Learning, Promotions / Appraisal, Company Culture",98,712,7,1,10
+Sicagen,Building Material ,20,3.9,"Job Security, Work Life Balance",Promotions / Appraisal,97,427,3,3,9
+NETPLUS Broadband Services,Telecom ,10,3.8,Skill Development / Learning,"Promotions / Appraisal, Job Security",97,419,3,2,12
+Tupperware,Retail ,78,3.9,Work Life Balance,"Promotions / Appraisal, Job Security, Skill Development / Learning",97,548,3,14,15
+Sridevi Tool Engineers,Engineering & Construction ,52,3.7,Skill Development / Learning,"Company Culture, Salary & Benefits, Promotions / Appraisal",97,440,1,8,12
+Brady Corporation,Printing & Publishing ,110,4.2,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,97,579,2,2,16
+Tupperware,Retail ,78,3.9,Work Life Balance,"Promotions / Appraisal, Job Security, Skill Development / Learning",97,548,3,14,15
+NETPLUS Broadband Services,Telecom ,10,3.8,Skill Development / Learning,"Promotions / Appraisal, Job Security",97,419,3,2,12
+Sumtotal Systems,IT Services & Consulting ,39,3.9,"Company Culture, Work Life Balance",Promotions / Appraisal,97,983,9,67,16
+3Pillar Global,Software Product ,18,3.7,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,96,778,10,23,13
+Dachser,Logistics ,30,3.9,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,96,437,1,2,14
+TSR Darashaw,BPO ,23,3.6,"Job Security, Work Life Balance",Promotions / Appraisal,96,548,7,2,5
+Indian Register of Shipping,Ports & Shipping ,49,4.1,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",96,721,8,9,7
+Fichtner Consulting Engineers,Industrial Machinery ,37,4.1,"Work Life Balance, Company Culture",Promotions / Appraisal,96,564,4,9,7
+LIC Mutual Fund,Financial Services ,35,3.8,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",96,549,3,8,13
+Delta Technology,IT Services & Consulting ,18,3.8,Work Life Balance,"Job Security, Promotions / Appraisal, Skill Development / Learning",96,1000,3,14,9
+Indian Synthetic Rubber,Petrochemicals ,14,3.7,"Work Life Balance, Job Security","Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",96,488,3,2,22
+Gokul Agro Resources,FMCG ,10,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",96,673,8,3,6
+Veena world,Travel & Tourism ,11,3.7,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",95,481,1,12,15
+Tide Water Oil,Chemicals / Agri Inputs ,96,3.7,Company Culture,Promotions / Appraisal,95,430,2,5,8
+Lohia Auto Industries,Automobile ,16,3.9,Work Life Balance,Promotions / Appraisal,95,498,3,1,9
+Express KCS,Marketing & Advertising ,20,4.0,Work Life Balance,Promotions / Appraisal,95,452,9,3,16
+Bl International,Fashion & Textile ,33,3.9,Work Life Balance,"Promotions / Appraisal, Job Security, Company Culture",95,555,3,8,13
+Biorad Medisys,Healthcare ,17,4.0,"Work Life Balance, Company Culture",Promotions / Appraisal,95,633,8,2,9
+Tide Water Oil,Chemicals / Agri Inputs ,96,3.7,Company Culture,Promotions / Appraisal,95,430,2,5,8
+Dhanlaxmi Bank,Banking ,97,4.3,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,95,501,1,1,5
+Lohia Auto Industries,Automobile ,16,3.9,Work Life Balance,Promotions / Appraisal,95,498,3,1,9
+BrowserStack,IT Services & Consulting ,13,3.7,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction, Job Security",95,13000,24,48,15
+Jubilant Motorworks,Auto Components ,15,4.0,Work Life Balance,Promotions / Appraisal,94,467,5,2,16
+Accel Limited,IT Services & Consulting ,33,3.8,Work Life Balance,Promotions / Appraisal,94,637,6,2,9
+Rotork Controls,Industrial Machinery ,67,3.9,Job Security,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",94,645,7,5,12
+Firmenich Aromatics,Chemicals ,129,4.4,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,94,636,6,10,18
+Jawed Habib Hair & Beauty,Retail ,18,4.1,Work Life Balance,Promotions / Appraisal,94,412,1,4,8
+Firmenich Aromatics,Chemicals ,129,4.4,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,94,636,6,10,18
+Monocept,Software Product ,12,3.8,Skill Development / Learning,Promotions / Appraisal,94,869,6,20,11
+Kirloskar Ebara Pumps,Industrial Machinery ,36,3.7,Skill Development / Learning,"Job Security, Promotions / Appraisal, Salary & Benefits",94,579,4,9,4
+QUALITY EVALUATION AND SYSTEMS TEAM,Other ,39,3.9,"Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",93,416,1,7,7
+Netcon Technologies,IT Services & Consulting ,17,3.9,"Skill Development / Learning, Job Security","Promotions / Appraisal, Salary & Benefits",93,886,10,6,6
+Lbf Travel,Travel & Tourism ,14,3.8,Salary & Benefits,"Job Security, Promotions / Appraisal",93,495,2,4,16
+Arrow Electronics,Semiconductors ,34,3.6,Job Security,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",93,12000,7,1,6
+Marc Enterprises,Electronics Manufacturing ,43,3.8,"Work Life Balance, Job Security",Promotions / Appraisal,93,463,4,2,4
+Thinkapps Solutions,Recruitment ,15,4.1,"Company Culture, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,93,652,8,143,3
+Phoenix Marketcity,Retail ,13,4.0,Salary & Benefits,"Job Security, Promotions / Appraisal, Company Culture",93,616,4,27,10
+Sonovision-Aetos,IT Services & Consulting ,18,3.9,"Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits",93,732,5,5,12
+Go-Jek,Financial Services ,14,3.7,"Salary & Benefits, Work Life Balance","Job Security, Promotions / Appraisal",93,11000,15,10,8
+NeST Digital,IT Services & Consulting ,26,3.6,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",93,615,7,79,4
+Khivraj Motors,Automobile ,63,4.2,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,93,532,1,21,10
+Durr India,Industrial Automation ,27,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",92,625,4,18,7
+Tecnics Integration Technologies,Software Product ,19,3.4,Work Life Balance,"Salary & Benefits, Promotions / Appraisal",92,841,3,3,9
+Gameskraft,Software Product ,7,3.7,Salary & Benefits,Promotions / Appraisal,92,848,8,43,6
+ISKCON,Non-Profit ,58,4.2,"Work Life Balance, Company Culture, Work Satisfaction",Promotions / Appraisal,92,499,1,2,12
+Apcotex Industries,Chemicals ,44,3.9,"Work Life Balance, Job Security, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",92,706,4,2,10
+IRIS KPO Resourcing,Analytics & KPO ,17,3.8,"Job Security, Work Life Balance",Promotions / Appraisal,92,608,5,6,7
+HMD Global,Electronics Manufacturing ,8,3.7,"Work Life Balance, Company Culture","Promotions / Appraisal, Job Security",92,551,5,10,13
+Kirtane & Pandit,Accounting & Auditing ,68,3.8,"Company Culture, Job Security, Work Life Balance","Salary & Benefits, Promotions / Appraisal",92,445,1,45,12
+Motorola Solutions,Telecom ,25,3.9,"Work Life Balance, Job Security",Promotions / Appraisal,92,11000,10,27,18
+AFour Technologies,IT Services & Consulting ,17,3.5,Work Life Balance,"Promotions / Appraisal, Work Satisfaction, Job Security",92,13000,11,4,12
+Interactive Avenues,Marketing & Advertising ,18,4.0,Job Security,Promotions / Appraisal,91,884,5,4,12
+Interactive Avenues,Marketing & Advertising ,18,4.0,Job Security,Promotions / Appraisal,91,884,5,4,12
+Nxtra Data,IT Services & Consulting ,11,4.0,"Work Satisfaction, Job Security, Company Culture",Promotions / Appraisal,91,524,6,2,8
+Digitas,Marketing & Advertising ,18,3.8,"Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits",91,908,3,2,10
+Digitas,Marketing & Advertising ,18,3.8,"Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits",91,908,3,2,10
+Waah Jobs,Internet ,9,4.2,Company Culture,Promotions / Appraisal,91,536,2,11,17
+BIZONGO,Emerging Technologies ,9,3.3,Salary & Benefits,"Job Security, Work Satisfaction, Promotions / Appraisal",91,972,8,34,11
+Dsm Shared Services India,Chemicals ,1,4.1,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,91,460,2,8,18
+Ami Organics,Pharma ,17,4.0,"Job Security, Salary & Benefits",Company Culture,90,648,10,2,12
+The Indure,Power ,54,4.0,"Skill Development / Learning, Work Life Balance, Job Security",Promotions / Appraisal,90,416,3,2,12
+National Oilwell Varco,Oil & Gas ,183,4.1,"Work Life Balance, Company Culture, Salary & Benefits",Promotions / Appraisal,90,457,3,4,13
+Vibrant Screen,Recruitment ,18,3.8,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits, Company Culture",90,408,1,1,5
+Excel Crop Care,Agro Chemicals ,60,4.0,"Job Security, Skill Development / Learning, Company Culture",Promotions / Appraisal,90,309,2,1,18
+Metec Design & Construction Engineers,Engineering & Construction ,22,3.5,Skill Development / Learning,"Salary & Benefits, Work Life Balance, Promotions / Appraisal",90,428,3,3,17
+Glass Wall Systems,Engineering & Construction ,21,3.9,"Company Culture, Skill Development / Learning, Work Life Balance","Job Security, Promotions / Appraisal",90,516,3,1,6
+Bizmatics India,Software Product ,22,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",90,637,4,5,10
+Loyal Textile Mills,Fashion & Textile ,78,3.6,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",90,596,3,12,10
+Consilio,Legal ,22,4.0,"Company Culture, Work Life Balance, Job Security",Promotions / Appraisal,90,779,9,9,11
+Donaldson India Filter Systems,Industrial Machinery ,109,4.1,"Work Life Balance, Salary & Benefits, Company Culture",Promotions / Appraisal,90,584,1,15,8
+Line O Matic Graphic Industries,Pulp & Paper ,27,3.7,Salary & Benefits,"Promotions / Appraisal, Work Satisfaction, Skill Development / Learning",90,553,7,3,17
+Gera Developments,Real Estate ,54,4.1,"Job Security, Work Satisfaction, Skill Development / Learning",Promotions / Appraisal,89,521,2,3,17
+Chargebee,IT Services & Consulting ,14,4.0,"Salary & Benefits, Work Life Balance, Company Culture","Job Security, Skill Development / Learning",89,1000,9,37,12
+Inshorts,Internet ,11,4.2,"Work Life Balance, Company Culture, Salary & Benefits",Skill Development / Learning,89,494,9,4,13
+First Step Babywear,Fashion & Textile ,22,4.2,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,89,611,1,7,13
+Lot Mobiles,Retail ,12,4.0,Company Culture,"Promotions / Appraisal, Salary & Benefits",89,400,2,1,12
+Hogarth Worldwide,Marketing & Advertising ,16,3.7,"Work Life Balance, Job Security","Promotions / Appraisal, Work Satisfaction, Salary & Benefits",89,11000,11,3,6
+Foundation To Educate Girls Gloablly,Non-Profit ,17,3.8,Skill Development / Learning,"Job Security, Work Life Balance, Promotions / Appraisal",89,221,6,1,17
+Cogneesol,Accounting & Auditing ,16,3.9,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Salary & Benefits",89,523,5,16,12
+C2L BIZ,Internet ,17,3.7,Job Security,"Salary & Benefits, Promotions / Appraisal",88,771,6,14,19
+Scribe EMR,IT Services & Consulting ,8,4.1,"Skill Development / Learning, Work Satisfaction, Work Life Balance",Promotions / Appraisal,88,344,7,8,12
+Arcon TechSolutions,IT Services & Consulting ,18,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",88,700,11,1,11
+Scribe EMR,IT Services & Consulting ,8,4.1,"Skill Development / Learning, Work Satisfaction, Work Life Balance",Promotions / Appraisal,88,344,7,8,12
+Arcon TechSolutions,IT Services & Consulting ,18,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",88,700,11,1,11
+CRED,FinTech ,6,3.8,"Salary & Benefits, Company Culture","Promotions / Appraisal, Work Life Balance, Work Satisfaction",88,13000,14,14,9
+Log 9 Materials Scientific,Electronics Manufacturing ,9,3.8,"Salary & Benefits, Company Culture",Promotions / Appraisal,88,534,10,19,9
+Synamedia,Software Product ,6,3.4,"Work Life Balance, Company Culture","Job Security, Promotions / Appraisal, Skill Development / Learning",88,11000,7,14,13
+vConstruct,Engineering & Construction ,11,3.9,"Company Culture, Job Security, Work Life Balance",Promotions / Appraisal,88,581,7,9,18
+Room to Read,Non-Profit ,24,4.3,"Salary & Benefits, Work Life Balance, Company Culture",Job Security,88,254,9,8,11
+Classic Marble Company,Building Material ,30,4.1,"Work Life Balance, Salary & Benefits",Promotions / Appraisal,87,451,4,6,8
+HH Global,IT Services & Consulting ,33,3.9,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",87,819,7,2,9
+The India Thermit Corporation,Industrial Machinery ,73,3.7,Job Security,"Promotions / Appraisal, Work Life Balance, Salary & Benefits",87,460,7,2,10
+Crescon Projects & Services,IT Services & Consulting ,13,3.9,"Skill Development / Learning, Job Security","Work Life Balance, Company Culture",87,442,6,8,11
+Kreate Energy,Power ,27,3.7,"Work Life Balance, Job Security","Salary & Benefits, Promotions / Appraisal",87,383,5,10,21
+Dyninno,IT Services & Consulting ,5,3.8,Salary & Benefits,"Job Security, Work Satisfaction",87,346,9,11,6
+Classic Stripes,Auto Components ,37,3.8,"Company Culture, Skill Development / Learning, Work Satisfaction","Job Security, Promotions / Appraisal",87,601,4,3,17
+Prometric Testing,Software Product ,34,3.4,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",87,383,5,2,8
+Classic Marble Company,Building Material ,30,4.1,"Work Life Balance, Salary & Benefits",Promotions / Appraisal,87,451,4,6,8
+Vatika Hotels,Real Estate ,20,4.0,"Work Life Balance, Skill Development / Learning, Work Satisfaction",Promotions / Appraisal,87,387,3,20,11
+Basware,IT Services & Consulting ,39,4.1,"Work Life Balance, Company Culture, Job Security","Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",87,741,12,2,14
+Gala Precision Engineering Limited,Engineering & Construction ,29,4.2,"Company Culture, Skill Development / Learning",Promotions / Appraisal,87,439,4,17,16
+Rinac India,Import & Export ,30,4.1,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,86,437,4,3,9
+Malpani Group,Power ,130,4.3,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,86,461,3,2,4
+Mitel,Telecom ,52,3.8,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Job Security",86,11000,12,1,18
+Banas Dairy,Food Processing ,55,4.1,"Job Security, Salary & Benefits, Work Life Balance",Promotions / Appraisal,86,339,2,3,10
+Energo Engineering Projects,Engineering & Construction ,37,4.0,Work Life Balance,"Salary & Benefits, Promotions / Appraisal",86,331,3,1,9
+Banas Dairy,Food Processing ,55,4.1,"Job Security, Salary & Benefits, Work Life Balance",Promotions / Appraisal,86,339,2,3,10
+Pritam International,Consumer Electronics & Appliances ,24,3.6,Skill Development / Learning,"Company Culture, Work Satisfaction, Job Security",86,531,6,17,9
+Reserve Bank Information Technology,IT Services & Consulting ,8,3.7,Work Life Balance,Promotions / Appraisal,86,916,17,15,15
+Oerlikon Balzers,Metals & Mining ,30,3.9,"Job Security, Salary & Benefits",Promotions / Appraisal,86,574,2,5,13
+Sakthi Finance,Financial Services ,69,4.3,"Work Life Balance, Job Security, Work Satisfaction",Promotions / Appraisal,85,457,2,6,12
+Unique Pharmaceutical Laboratories,Pharma ,37,4.3,"Job Security, Work Life Balance, Skill Development / Learning",Promotions / Appraisal,85,622,1,3,13
+Simeio Solutions,IT Services & Consulting ,15,3.5,Skill Development / Learning,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",85,904,8,4,12
+V2soft,IT Services & Consulting ,26,4.0,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Job Security",85,956,8,38,11
+Sun Business Solutions,IT Services & Consulting ,14,4.1,"Job Security, Skill Development / Learning, Work Life Balance","Promotions / Appraisal, Salary & Benefits",85,327,2,10,15
+Futures First info Services,Financial Services ,20,3.8,Salary & Benefits,"Job Security, Work Life Balance, Promotions / Appraisal",85,783,54,10,14
+ICE Data Services,Financial Services ,24,3.4,Job Security,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",85,714,9,14,15
+Metro Brands,Fashion & Textile ,77,3.9,Work Life Balance,Promotions / Appraisal,85,544,4,12,8
+Trellix,Hardware & Networking ,2,3.5,Work Life Balance,"Job Security, Promotions / Appraisal, Work Satisfaction",85,627,5,12,4
+SOTI,Software Product ,29,3.5,"Work Life Balance, Job Security","Promotions / Appraisal, Salary & Benefits",84,1000,7,14,14
+Apicore Pharmaceuticals,Pharma ,18,3.7,"Job Security, Company Culture, Work Life Balance",Salary & Benefits,84,551,3,1,18
+Princeware,Petrochemicals ,46,3.8,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal, Job Security",84,535,3,1,6
+Besmak Components,Auto Components ,30,4.1,"Skill Development / Learning, Work Satisfaction","Work Life Balance, Salary & Benefits, Promotions / Appraisal",84,537,3,3,9
+Vegrow,Internet ,4,4.2,"Company Culture, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,84,363,4,4,9
+Experian,IT Services & Consulting ,18,3.7,Company Culture,"Promotions / Appraisal, Work Satisfaction",84,11000,7,87,9
+Asian Institute of Gastroenterology,Healthcare ,30,4.4,"Job Security, Company Culture, Work Life Balance",Promotions / Appraisal,84,423,2,4,5
+Euronet Global Development Center,FinTech ,30,3.8,Job Security,Promotions / Appraisal,84,746,9,26,10
+Lister Technologies,IT Services & Consulting ,24,3.7,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,83,844,2,12,11
+Teemage Precast In,Engineering & Construction ,13,4.0,Skill Development / Learning,Salary & Benefits,83,487,2,5,14
+Lister Technologies,IT Services & Consulting ,24,3.7,"Skill Development / Learning, Company Culture, Job Security",Promotions / Appraisal,83,844,2,12,11
+Teemage Precast In,Engineering & Construction ,13,4.0,Skill Development / Learning,Salary & Benefits,83,487,2,5,14
+Commerce Pundit,IT Services & Consulting ,15,3.7,Work Life Balance,"Promotions / Appraisal, Job Security",83,557,5,2,13
+Turing,Internet ,6,3.6,"Work Life Balance, Company Culture, Salary & Benefits",Job Security,83,560,12,138,5
+Seagate,Hardware & Networking ,17,3.2,Work Life Balance,"Job Security, Promotions / Appraisal, Skill Development / Learning",83,748,4,18,15
+RELX Group,Internet ,31,4.0,"Company Culture, Work Life Balance, Salary & Benefits",Promotions / Appraisal,83,434,3,36,6
+Knack Systems,IT Services & Consulting ,26,3.6,"Work Life Balance, Salary & Benefits","Job Security, Skill Development / Learning",82,589,2,5,11
+Shrinath Rotopack,Packaging ,24,4.2,"Job Security, Work Life Balance","Salary & Benefits, Promotions / Appraisal",82,405,3,1,9
+Clinic Dermatech,Beauty & Personal Care ,18,3.6,Skill Development / Learning,"Salary & Benefits, Job Security, Promotions / Appraisal",82,381,1,14,7
+Vasu Healthcare,Healthcare ,44,4.2,"Work Life Balance, Company Culture, Skill Development / Learning",Promotions / Appraisal,82,475,1,2,7
+Classteacher Learning System,EdTech ,25,3.8,"Work Life Balance, Skill Development / Learning",Promotions / Appraisal,82,235,1,5,4
+Multi Commodity Exchange of India,Financial Services ,21,3.4,Job Security,"Skill Development / Learning, Promotions / Appraisal, Company Culture",82,760,3,3,11
+Shri Ram Murti Smarak Institute of Medical Sciences,Education & Training ,34,4.0,"Company Culture, Skill Development / Learning","Promotions / Appraisal, Job Security",82,230,3,44,9
+The Digital Group Infotech,IT Services & Consulting ,25,3.9,"Work Life Balance, Job Security, Skill Development / Learning",Promotions / Appraisal,82,754,5,33,4
+Khosla Profil,Fashion & Textile ,45,3.4,Salary & Benefits,"Company Culture, Work Satisfaction, Promotions / Appraisal",81,480,5,1,5
+Garuda Polyflex Foods,FMCG ,12,4.0,"Salary & Benefits, Work Life Balance, Company Culture","Promotions / Appraisal, Job Security",81,235,4,2,13
+Europ Assistance India,Insurance ,17,3.8,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",81,455,9,2,5
+Prabha Industries,Chemicals ,54,3.8,"Job Security, Skill Development / Learning, Work Satisfaction",Promotions / Appraisal,81,539,3,1,7
+Colan Infotech,IT Services & Consulting ,15,4.0,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits",81,923,9,35,18
+Doctors for you,Non-Profit ,17,4.1,"Work Life Balance, Skill Development / Learning, Company Culture","Job Security, Promotions / Appraisal",81,364,8,3,12
+Optimize IT Systems,IT Services & Consulting ,14,3.9,Company Culture,Promotions / Appraisal,81,588,9,33,16
+Garuda Polyflex Foods,FMCG ,12,4.0,"Salary & Benefits, Work Life Balance, Company Culture","Promotions / Appraisal, Job Security",81,235,4,2,13
+Cello,Retail ,57,3.6,Job Security,"Promotions / Appraisal, Skill Development / Learning, Work Life Balance",81,441,1,15,10
+Royal Cyber,IT Services & Consulting ,11,3.9,"Work Life Balance, Salary & Benefits","Promotions / Appraisal, Job Security",81,975,6,15,4
+ATC India Tower Corporation,Telecom ,17,4.4,"Work Life Balance, Company Culture, Skill Development / Learning",Job Security,81,379,3,7,19
+NNE,Engineering & Construction ,28,3.7,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",81,704,6,10,13
+Pearl Academy,Education & Training ,31,4.0,"Work Life Balance, Company Culture",Promotions / Appraisal,81,479,4,13,9
+iPlaceUSA,Recruitment ,18,3.9,"Salary & Benefits, Promotions / Appraisal",Job Security,80,417,3,1,18
+AJ Hospital and Research Centre,Healthcare ,23,3.8,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits",80,331,3,11,6
+Anglo-French Drugs & Industries,Pharma ,101,3.8,Company Culture,"Promotions / Appraisal, Job Security",80,411,5,1,4
+Transdyne IT Services,IT Services & Consulting ,22,3.4,"Job Security, Company Culture, Work Life Balance",Salary & Benefits,80,246,7,6,15
+Gainwell Technologies,IT Services & Consulting ,15,4.0,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,80,762,5,44,8
+Conde Nast India,Printing & Publishing ,17,3.5,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",80,1000,5,23,16
+ProProfs,Software Product ,14,3.6,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",80,467,3,39,11
+Via.com,Media & Entertainment ,19,3.7,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Company Culture",80,451,2,15,6
+Galderma,Healthcare ,43,3.6,Salary & Benefits,"Job Security, Promotions / Appraisal",80,287,1,10,11
+IG Infotech India,IT Services & Consulting ,20,4.0,"Company Culture, Work Life Balance, Work Satisfaction",Promotions / Appraisal,80,625,8,24,14
+Trinity Touch,Electrical Equipment ,26,4.1,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,80,597,1,22,11
+SAL STEEL,Iron & Steel ,21,3.5,Job Security,"Promotions / Appraisal, Salary & Benefits, Company Culture",80,508,3,6,10
+Renishaw,Industrial Automation ,51,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,79,568,9,2,13
+Tiwana Oil Mills,Food Processing ,25,4.0,Skill Development / Learning,"Promotions / Appraisal, Job Security, Work Life Balance",79,269,3,2,9
+Mgm Hospital,Healthcare ,7,4.1,"Skill Development / Learning, Job Security","Salary & Benefits, Promotions / Appraisal",79,401,3,1,10
+Fourth Dimension Technologies,IT Services & Consulting ,35,3.9,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal",79,672,8,7,8
+Sumitomo Mitsui Banking Corporation,Financial Services ,23,2.7,Job Security,"Work Satisfaction, Company Culture, Skill Development / Learning",79,679,6,28,12
+Delhi Integrated Multi Modal Transit System,Urban Transport ,18,3.9,Work Life Balance,"Promotions / Appraisal, Skill Development / Learning, Salary & Benefits",79,456,4,2,10
+Fourth Dimension Technologies,IT Services & Consulting ,35,3.9,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal",79,672,8,7,8
+Andhra Petrochemicals,Chemicals / Agri Inputs ,40,3.9,"Job Security, Work Life Balance, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits",79,346,3,1,7
+Goqii,Fitness & Wellness ,10,3.6,"Work Life Balance, Company Culture, Skill Development / Learning","Promotions / Appraisal, Salary & Benefits, Job Security",79,335,3,16,5
+iTech India,IT Services & Consulting ,21,3.6,Job Security,"Promotions / Appraisal, Salary & Benefits, Work Life Balance",79,557,2,22,8
+Shiv Nadar University,Education & Training ,13,4.3,"Work Life Balance, Job Security, Work Satisfaction",Promotions / Appraisal,79,564,4,4,13
+Tiwana Oil Mills,Food Processing ,25,4.0,Skill Development / Learning,"Promotions / Appraisal, Job Security, Work Life Balance",79,269,3,2,9
+Mgm Hospital,Healthcare ,7,4.1,"Skill Development / Learning, Job Security","Salary & Benefits, Promotions / Appraisal",79,401,3,1,10
+Renishaw,Industrial Automation ,51,4.1,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,79,568,9,2,13
+Mindbody,IT Services & Consulting ,23,3.4,Work Life Balance,"Job Security, Promotions / Appraisal, Skill Development / Learning",79,630,6,32,10
+Planit Testing India,IT Services & Consulting ,27,3.6,Skill Development / Learning,"Promotions / Appraisal, Company Culture",79,1000,7,9,17
+CoinDCX,Emerging Technologies ,7,3.7,"Salary & Benefits, Work Life Balance","Job Security, Promotions / Appraisal",79,650,15,38,11
+Sartorius Stedim India,Biotechnology ,33,4.2,"Work Life Balance, Job Security, Company Culture","Promotions / Appraisal, Salary & Benefits",79,666,5,33,15
+Dynamic Engineering,Industrial Machinery ,42,3.7,Skill Development / Learning,"Promotions / Appraisal, Job Security, Company Culture",78,511,1,1,10
+ARCOP Associates,Architecture & Interior Design ,54,4.0,"Job Security, Skill Development / Learning","Work Life Balance, Promotions / Appraisal",78,269,2,1,9
+Cornerstone OnDemand,Software Product ,25,3.9,"Salary & Benefits, Work Life Balance","Work Satisfaction, Promotions / Appraisal",78,1000,9,25,7
+IMS Learning Resources,Education & Training ,47,3.8,Work Life Balance,"Promotions / Appraisal, Job Security, Skill Development / Learning",78,600,5,9,6
+Information Evolution,IT Services & Consulting ,17,3.5,Work Life Balance,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",78,601,8,3,2
+Pan Seeds,Agriculture ,49,3.7,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits, Work Life Balance",77,293,9,4,13
+Carestream Health,Healthcare ,17,3.8,Company Culture,"Promotions / Appraisal, Job Security",77,422,7,1,10
+Pan Seeds,Agriculture ,49,3.7,Skill Development / Learning,"Promotions / Appraisal, Salary & Benefits, Work Life Balance",77,293,9,4,13
+Mahindra Powerol,Industrial Machinery ,23,4.0,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,77,453,3,1,6
+Realistic Realtors,Real Estate ,26,3.9,"Work Life Balance, Salary & Benefits, Company Culture",Promotions / Appraisal,77,423,1,27,5
+Mahindra Powerol,Industrial Machinery ,23,4.0,"Skill Development / Learning, Job Security, Company Culture",Promotions / Appraisal,77,453,3,1,6
+Swarovski India,Jewellery ,129,3.9,"Skill Development / Learning, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",77,377,4,4,15
+Swarovski India,Jewellery ,129,3.9,"Skill Development / Learning, Work Life Balance, Company Culture","Promotions / Appraisal, Salary & Benefits",77,377,4,4,15
+DNV,Management Consulting ,160,4.1,"Work Life Balance, Job Security, Company Culture","Salary & Benefits, Promotions / Appraisal",77,389,5,7,5
+Flender,Industrial Machinery ,125,4.0,"Job Security, Work Life Balance, Work Satisfaction",Promotions / Appraisal,77,552,7,11,12
+Lexmark International,IT Services & Consulting ,33,3.7,"Work Life Balance, Company Culture, Job Security",Promotions / Appraisal,76,508,4,17,9
+Winsome Textile Industries,Fashion & Textile ,34,4.3,"Job Security, Work Life Balance, Salary & Benefits",Promotions / Appraisal,76,462,5,3,18
+Gia India Laboratory,Jewellery ,93,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,76,379,5,1,7
+Presto Stantest,Industrial Machinery ,42,3.9,"Company Culture, Skill Development / Learning",Promotions / Appraisal,76,289,2,1,8
+Winsome Textile Industries,Fashion & Textile ,34,4.3,"Job Security, Work Life Balance, Salary & Benefits",Promotions / Appraisal,76,462,5,3,18
+Gia India Laboratory,Jewellery ,93,4.2,"Job Security, Work Life Balance, Company Culture",Promotions / Appraisal,76,379,5,1,7
+Smiths Detection,Defence & Aerospace ,74,3.4,Work Life Balance,"Promotions / Appraisal, Work Satisfaction, Salary & Benefits",76,558,7,4,6
+Coupa Software Inc,IT Services & Consulting ,18,3.9,"Salary & Benefits, Work Life Balance, Company Culture","Job Security, Promotions / Appraisal",76,782,13,19,9
+Seshasayee Paper & Boards,Pulp & Paper ,64,4.0,"Work Life Balance, Work Satisfaction, Job Security","Promotions / Appraisal, Salary & Benefits",75,336,3,1,6
+Popular Hyundai,Retail ,20,3.9,Company Culture,"Salary & Benefits, Work Life Balance, Promotions / Appraisal",75,293,3,9,3
+Symbiosis International University,Education & Training ,53,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",75,495,13,15,4
+Seshasayee Paper & Boards,Pulp & Paper ,64,4.0,"Work Life Balance, Work Satisfaction, Job Security","Promotions / Appraisal, Salary & Benefits",75,336,3,1,6
+Zenith Software,IT Services & Consulting ,28,4.4,"Skill Development / Learning, Work Life Balance, Work Satisfaction",Promotions / Appraisal,75,581,4,1,3
+IT Convergence,IT Services & Consulting ,14,3.6,Work Life Balance,"Promotions / Appraisal, Salary & Benefits",75,847,4,9,9
+Popular Hyundai,Retail ,20,3.9,Company Culture,"Salary & Benefits, Work Life Balance, Promotions / Appraisal",75,293,3,9,3
+Symbiosis International University,Education & Training ,53,3.9,Job Security,"Promotions / Appraisal, Salary & Benefits",75,495,13,15,4
+Fair Exports,Import & Export ,34,3.7,Job Security,"Promotions / Appraisal, Salary & Benefits, Skill Development / Learning",75,584,2,1,6
+CRY - Child Rights and You,Non-Profit ,45,4.2,"Work Life Balance, Salary & Benefits",Promotions / Appraisal,75,330,2,23,9
+Institute of Liver & Biliary Sciences,Education & Training ,15,4.2,"Work Life Balance, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,75,389,2,1,9
+CRY - Child Rights and You,Non-Profit ,45,4.2,"Work Life Balance, Salary & Benefits",Promotions / Appraisal,75,330,2,23,9
+ESRI India Technologies,IT Services & Consulting ,28,3.8,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,75,453,2,1,6
+Institutional Shareholder Services,Analytics & KPO ,39,3.8,"Job Security, Work Life Balance","Promotions / Appraisal, Skill Development / Learning, Work Satisfaction",75,807,11,49,8
+Institute of Liver & Biliary Sciences,Education & Training ,15,4.2,"Work Life Balance, Skill Development / Learning, Salary & Benefits",Promotions / Appraisal,75,389,2,1,9
+Schbang,Marketing & Advertising ,9,3.6,Company Culture,"Promotions / Appraisal, Salary & Benefits, Work Life Balance",75,712,13,40,5
+ATYETI,IT Services & Consulting ,16,3.6,"Work Life Balance, Salary & Benefits",Job Security,75,626,5,23,10
+Oxyzo Financial Services,Financial Services ,8,4.0,Salary & Benefits,Work Satisfaction,74,498,2,1,4
+Merit Group,IT Services & Consulting ,21,3.8,Company Culture,"Promotions / Appraisal, Salary & Benefits, Work Satisfaction",74,542,5,8,13
+Divyasree Developers,Real Estate ,20,4.3,"Work Life Balance, Work Satisfaction, Skill Development / Learning",Promotions / Appraisal,74,449,1,5,14
+Jodo,FinTech ,4,3.7,"Company Culture, Work Life Balance",Promotions / Appraisal,74,336,6,15,2
+CoreEL Technologies,Electronics Manufacturing ,25,4.2,"Job Security, Skill Development / Learning, Work Life Balance",Promotions / Appraisal,74,684,2,37,16
+McGraw-Hill Education,Printing & Publishing ,5,3.7,"Work Life Balance, Company Culture",Promotions / Appraisal,74,517,4,3,19
+Systematix Infotech,IT Services & Consulting ,19,3.7,"Job Security, Skill Development / Learning",Promotions / Appraisal,73,546,5,4,10
+Getronics,IT Services & Consulting ,137,4.0,"Work Life Balance, Job Security, Company Culture",Promotions / Appraisal,73,824,5,3,16
+Neo Metaliks,Metals & Mining ,20,3.7,Work Life Balance,Promotions / Appraisal,73,387,4,2,6
+Seth Anandram Jaipuria School,Education & Training ,79,3.9,Skill Development / Learning,"Promotions / Appraisal, Company Culture, Salary & Benefits",73,373,6,1,5
+SafexPay,FinTech ,10,3.8,Company Culture,"Promotions / Appraisal, Salary & Benefits",73,272,12,83,37
+Virchow Laboratories,Pharma ,43,4.0,Job Security,"Promotions / Appraisal, Company Culture, Salary & Benefits",73,339,4,1,8
+Codeforce 360,IT Services & Consulting ,14,4.1,"Skill Development / Learning, Work Life Balance, Company Culture",Job Security,73,367,2,3,9
+Codeforce 360,IT Services & Consulting ,14,4.1,"Skill Development / Learning, Work Life Balance, Company Culture",Job Security,73,367,2,3,9
+Sandvik Coromant,Industrial Machinery ,82,4.4,"Company Culture, Work Satisfaction, Skill Development / Learning",Promotions / Appraisal,73,435,3,7,12
+PMI Electro Mobility Solutions,Internet ,9,4.0,Skill Development / Learning,"Salary & Benefits, Promotions / Appraisal, Job Security",73,334,5,2,5
+Crystal Voxx,Accounting & Auditing ,32,3.6,Work Life Balance,"Job Security, Work Satisfaction, Salary & Benefits",73,393,3,43,11
+C1 India,IT Services & Consulting ,24,4.0,"Work Life Balance, Work Satisfaction, Company Culture","Job Security, Promotions / Appraisal",72,538,5,6,15
+Corrival Corporate Consultants,Recruitment ,18,4.2,"Company Culture, Work Satisfaction, Job Security",Promotions / Appraisal,72,416,2,1,14
+Aga Khan Rural Support Programme (India),Non-Profit ,42,3.8,"Skill Development / Learning, Company Culture","Promotions / Appraisal, Salary & Benefits, Job Security",72,194,3,1,8
+Finolex,Petrochemicals ,66,3.9,"Work Life Balance, Job Security",Promotions / Appraisal,72,456,9,2,21
